@@ -1,0 +1,4 @@
+# Pure static site — no build step. Publish the folder root.
+[build]
+  publish = "."
+  command = ""

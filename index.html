@@ -1,0 +1,139 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>All Good Things Bakery — Recipe Review</title>
+<style>
+:root{--green:#2a8d57;--orange:#d6852f;--ink:#27313a;--line:#dfe4ea;--blue:#37597a}
+*{box-sizing:border-box}
+html,body{height:100%;margin:0}
+body{font:15px/1.5 system-ui,-apple-system,Segoe UI,Arial,sans-serif;color:var(--ink);display:flex;flex-direction:column}
+header{background:#1d2b3a;color:#fff;padding:10px 16px;display:flex;flex-wrap:wrap;gap:10px 18px;align-items:center}
+header h1{font-size:16px;margin:0;font-weight:650}
+.prog{font-size:13px;opacity:.92}.prog b{color:#7fe0a6}
+.btn{font:inherit;border:0;border-radius:7px;padding:7px 13px;cursor:pointer;background:var(--blue);color:#fff}
+.btn:hover{filter:brightness(1.1)}.btn.ghost{background:#33455a}
+#finishBtn{margin-left:auto;background:var(--green);font-weight:600}
+.chips{display:flex;gap:8px;flex-wrap:wrap;padding:10px 16px;background:#eef1f5;border-bottom:1px solid var(--line)}
+.chip{border:1px solid var(--line);background:#fff;border-radius:18px;padding:5px 12px;cursor:pointer;font-size:13px;display:flex;align-items:center;gap:6px}
+.chip .d{width:9px;height:9px;border-radius:50%;background:#c2c9d2}
+.chip.active{border-color:var(--blue);box-shadow:0 0 0 2px rgba(55,89,122,.15)}
+.chip.approved .d{background:var(--green)}.chip.changes .d{background:var(--orange)}
+.chip .e{font-size:11px;color:var(--orange)}
+main{flex:1;display:grid;grid-template-columns:1fr 1fr;min-height:0}
+.imgpane{display:flex;flex-direction:column;min-width:0;border-right:1px solid var(--line)}
+.tools{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:8px 12px;background:#f6f8fa;border-bottom:1px solid var(--line);font-size:13px}
+.tools button{border:1px solid var(--line);background:#fff;border-radius:6px;padding:4px 9px;cursor:pointer}
+.imgbox{flex:1;overflow:auto;background:#141b22}
+.imgbox img{display:block;max-width:100%;transform-origin:top center}
+.editpane{display:flex;flex-direction:column;min-width:0;padding:14px;gap:12px;overflow:auto}
+.editpane label{font-size:12px;font-weight:600;color:#5a6573;text-transform:uppercase;letter-spacing:.03em}
+textarea{width:100%;border:1px solid var(--line);border-radius:8px;padding:11px;font:14px/1.6 ui-monospace,Menlo,Consolas,monospace;resize:vertical}
+#text{min-height:230px}#notes{min-height:60px;font-family:inherit}
+.statusrow{display:flex;gap:10px}
+.statusrow button{flex:1;border:2px solid var(--line);background:#fff;border-radius:9px;padding:11px;cursor:pointer;font:inherit;font-weight:600;color:#5a6573}
+.statusrow button.app.on{border-color:var(--green);background:#e9f7ef;color:var(--green)}
+.statusrow button.chg.on{border-color:var(--orange);background:#fdf2e6;color:var(--orange)}
+.navrow{display:flex;justify-content:space-between;margin-top:auto;gap:10px;padding-top:4px}
+.modal{position:fixed;inset:0;background:rgba(20,27,34,.6);display:flex;align-items:center;justify-content:center;padding:20px}
+.modal[hidden]{display:none}
+.card{background:#fff;border-radius:12px;max-width:680px;width:100%;max-height:86vh;overflow:auto;padding:22px}
+.card h2{margin:0 0 4px}.sumitem{border-top:1px solid var(--line);padding:10px 0}
+.tag{font-size:12px;font-weight:700;border-radius:6px;padding:2px 8px}
+.tag.approved{background:#e9f7ef;color:var(--green)}.tag.changes{background:#fdf2e6;color:var(--orange)}.tag.pending{background:#eef1f5;color:#8a95a1}
+.actions{display:flex;gap:10px;margin-top:16px;flex-wrap:wrap}
+@media(max-width:760px){main{grid-template-columns:1fr;grid-auto-rows:minmax(300px,auto)}.imgpane{border-right:0;border-bottom:1px solid var(--line)}}
+</style></head>
+<body>
+<header>
+ <h1>🧁 All Good Things Bakery — Recipe Review</h1>
+ <span class="prog" id="prog"></span>
+ <button class="btn" id="finishBtn">Finish &amp; send back ✓</button>
+</header>
+<div class="chips" id="chips"></div>
+<main>
+ <div class="imgpane">
+  <div class="tools">
+   <button id="rotate">⟳ Rotate</button>
+   <label>zoom <input type="range" id="zoom" min="1" max="5" step="0.1" value="1"></label>
+   <a id="full" target="_blank" style="margin-left:auto;color:var(--blue)">open photo ↗</a>
+  </div>
+  <div class="imgbox" id="vp"><img id="img" alt="recipe photo"></div>
+ </div>
+ <div class="editpane">
+  <div><label>Recipe text — fix anything that's wrong</label>
+   <textarea id="text" spellcheck="false"></textarea></div>
+  <div class="statusrow">
+   <button class="app" id="approve">✓ Approve</button>
+   <button class="chg" id="changes">✎ Needs changes</button>
+  </div>
+  <div><label>Notes (optional)</label>
+   <textarea id="notes" placeholder="Anything to tell the team about this recipe…"></textarea></div>
+  <div class="navrow">
+   <button class="btn ghost" id="prev">‹ Previous</button>
+   <button class="btn" id="next">Next ›</button>
+  </div>
+ </div>
+</main>
+<div class="modal" id="finish" hidden><div class="card">
+ <h2>Review summary</h2>
+ <p id="sumhead" style="color:#5a6573;margin-top:4px"></p>
+ <div id="sumlist"></div>
+ <div class="actions">
+  <button class="btn" id="dl">⬇ Download results (.json)</button>
+  <button class="btn ghost" id="copy">Copy summary text</button>
+  <button class="btn ghost" id="closeModal">Keep reviewing</button>
+ </div>
+ <p style="font-size:12px;color:#8a95a1;margin-top:12px">Download the file (or copy the text) and send it back to your consultant. Your progress is also saved in this browser.</p>
+</div></div>
+<script>
+const KEY="agt-recipe-review-v1";
+let R=[], S=[], i=0, t=null;
+const $=s=>document.querySelector(s);
+async function init(){
+  R=await (await fetch('recipes.json')).json();
+  const saved=JSON.parse(localStorage.getItem(KEY)||"[]");
+  S=R.map(r=>{const s=saved.find(x=>x.id===r.id)||{};
+    return {id:r.id,image:r.image,orig:r.text,rotation:r.rotation||0,
+      text:s.text!=null?s.text:r.text, status:s.status||'pending', notes:s.notes||''};});
+  render(0);
+}
+function save(){localStorage.setItem(KEY,JSON.stringify(S.map(s=>({id:s.id,text:s.text,status:s.status,notes:s.notes}))));updateChips();}
+function counts(){return {a:S.filter(s=>s.status==='approved').length,c:S.filter(s=>s.status==='changes').length};}
+function updateChips(){
+  const c=counts(); $('#prog').innerHTML=`Approved <b>${c.a}</b> / ${S.length}`+(c.c?` · ${c.c} need changes`:'');
+  $('#chips').innerHTML=S.map((s,n)=>{const ed=s.text.trim()!==s.orig.trim();
+    return `<div class="chip ${s.status} ${n===i?'active':''}" data-n="${n}"><span class="d"></span>${n+1}${ed?' <span class="e">edited</span>':''}</div>`;}).join('');
+  document.querySelectorAll('.chip').forEach(c=>c.onclick=()=>render(+c.dataset.n));
+}
+function render(n){
+  if(n<0||n>=S.length)return; i=n; const s=S[i];
+  $('#img').src=s.image; $('#full').href=s.image;
+  $('#text').value=s.text; $('#notes').value=s.notes;
+  $('#approve').classList.toggle('on',s.status==='approved');
+  $('#changes').classList.toggle('on',s.status==='changes');
+  applyImg(); updateChips();
+}
+function applyImg(){const s=S[i],z=parseFloat($('#zoom').value)||1;$('#img').style.transform=`rotate(${s.rotation||0}deg) scale(${z})`;}
+$('#text').addEventListener('input',()=>{S[i].text=$('#text').value;clearTimeout(t);t=setTimeout(save,500);});
+$('#notes').addEventListener('input',()=>{S[i].notes=$('#notes').value;clearTimeout(t);t=setTimeout(save,500);});
+$('#approve').onclick=()=>{S[i].status=S[i].status==='approved'?'pending':'approved';save();render(i);};
+$('#changes').onclick=()=>{S[i].status=S[i].status==='changes'?'pending':'changes';save();render(i);};
+$('#prev').onclick=()=>render(i-1);$('#next').onclick=()=>render(i+1);
+$('#rotate').onclick=()=>{S[i].rotation=((S[i].rotation||0)+90)%360;save();applyImg();};
+$('#zoom').oninput=applyImg;
+$('#finishBtn').onclick=showFinish;
+function esc(x){return (x||'').replace(/[<&]/g,c=>c==='<'?'&lt;':'&amp;');}
+function showFinish(){
+  const c=counts();
+  $('#sumhead').textContent=`${c.a} approved · ${c.c} need changes · ${S.length-c.a-c.c} not yet reviewed`;
+  $('#sumlist').innerHTML=S.map((s,n)=>{const ed=s.text.trim()!==s.orig.trim();
+    return `<div class="sumitem"><b>Recipe ${n+1}</b> <span class="tag ${s.status}">${s.status}</span> ${ed?'<span class="tag changes">edited</span>':''}${s.notes?`<div style="font-size:13px;color:#5a6573;margin-top:4px">📝 ${esc(s.notes)}</div>`:''}</div>`;}).join('');
+  $('#finish').hidden=false;
+}
+$('#closeModal').onclick=()=>$('#finish').hidden=true;
+$('#dl').onclick=()=>{const blob=new Blob([JSON.stringify(S.map(s=>({id:s.id,status:s.status,edited:s.text.trim()!==s.orig.trim(),text:s.text,notes:s.notes})),null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='recipe-approvals.json';a.click();};
+$('#copy').onclick=()=>{const txt=S.map((s,n)=>`Recipe ${n+1} [${s.status}]${s.text.trim()!==s.orig.trim()?' (edited)':''}${s.notes?'\nNotes: '+s.notes:''}\n----- text -----\n${s.text}`).join('\n\n=================\n\n');
+  navigator.clipboard.writeText(txt).then(()=>{$('#copy').textContent='Copied ✓';setTimeout(()=>$('#copy').textContent='Copy summary text',1500);});};
+document.addEventListener('keydown',e=>{if(e.target.tagName==='TEXTAREA')return;if(e.key==='ArrowLeft')render(i-1);if(e.key==='ArrowRight')render(i+1);});
+init();
+</script></body></html>
