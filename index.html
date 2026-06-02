@@ -93,6 +93,7 @@ textarea{width:100%;font:14px/1.6 ui-monospace,Menlo,Consolas,monospace;resize:v
 
   <div class="costs">
    <div class="costhd">💲 Batch costs <button class="gear" id="gear">⚙ Edit lists</button></div>
+   <div style="font-size:12px;color:#7a5a1e;background:#fff8ec;padding:5px 9px;border-radius:6px">✨ Pre‑filled with our best estimates — please confirm or correct each.</div>
    <div class="yield"><span class="rl">One batch makes</span>
      <input id="yq" type="number" min="0" step="any" placeholder="qty">
      <input id="yu" placeholder="unit (cupcakes, oz…)" style="flex:1;min-width:120px"></div>
@@ -149,6 +150,9 @@ async function init(){
   S=R.map(r=>{const s=saved.find(x=>x.id===r.id)||{}; const c=Object.assign(blankCosts(),s.costs||{});
     c.labor=c.labor||{}; c.skills=c.skills||[]; c.equipment=c.equipment||{};
     if(!c.yield_qty && r.yield_qty){ c.yield_qty=r.yield_qty; c.yield_unit=r.yield_unit||''; }
+    if(!Object.keys(c.labor).length && r.est_labor) c.labor={...r.est_labor};
+    if(!c.skills.length && r.est_skills) c.skills=[...r.est_skills];
+    if(!Object.keys(c.equipment).length && r.est_equipment) c.equipment={...r.est_equipment};
     return {id:r.id,name:r.name,page:r.page,page_label:r.page_label,pos:r.pos,typed:!!r.typed,orig:r.text,
       text:s.text!=null?s.text:r.text, status:s.status||'pending', notes:s.notes||'', costs:c};});
   R.forEach(r=>{if(rotP[r.page]===undefined && r.rotation) rotP[r.page]=r.rotation;});

@@ -6,7 +6,17 @@
     "page_label": "Page 1 · IMG_8992",
     "pos": "1 of 3 on this page",
     "rotation": 0,
-    "text": "PUMPKIN SPICE  (printed label, left)\n- 4 cups water\n- 3 cups sugar\n- 1 cup brown sugar\n- 2 tsp cinnamon\n- 1 tsp ginger\n- 1 tsp clove\n- 1 tsp nutmeg\n- 6 oz pumpkin"
+    "text": "PUMPKIN SPICE  (printed label, left)\n- 4 cups water\n- 3 cups sugar\n- 1 cup brown sugar\n- 2 tsp cinnamon\n- 1 tsp ginger\n- 1 tsp clove\n- 1 tsp nutmeg\n- 6 oz pumpkin",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8992-2",
@@ -15,7 +25,17 @@
     "page_label": "Page 1 · IMG_8992",
     "pos": "2 of 3 on this page",
     "rotation": 0,
-    "text": "GINGERBREAD 2x  \n- 4 c water\n- 4 c brown sugar\n- 5 tsp ginger\n- 1 tsp cinnamon\n- 4 oz molasses\n- vanilla"
+    "text": "GINGERBREAD 2x  \n- 4 c water\n- 4 c brown sugar\n- 5 tsp ginger\n- 1 tsp cinnamon\n- 4 oz molasses\n- vanilla",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8992-3",
@@ -24,7 +44,17 @@
     "page_label": "Page 1 · IMG_8992",
     "pos": "3 of 3 on this page",
     "rotation": 0,
-    "text": "GINGERBREAD 1x \n- 2 c water\n- 2 c brown sugar\n- 2.5 tsp ginger\n- 0.5 tsp cinnamon\n- 2 oz molasses\n- vanilla"
+    "text": "GINGERBREAD 1x \n- 2 c water\n- 2 c brown sugar\n- 2.5 tsp ginger\n- 0.5 tsp cinnamon\n- 2 oz molasses\n- vanilla",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8993-1",
@@ -33,7 +63,17 @@
     "page_label": "Page 2 · IMG_8993",
     "pos": "1 of 7 on this page",
     "rotation": 0,
-    "text": "STRAWBERRY (tripple?)\n- 1 lb strawberries\n- 3.5 oz sugar"
+    "text": "STRAWBERRY (tripple?)\n- 1 lb strawberries\n- 3.5 oz sugar",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8993-2",
@@ -42,7 +82,17 @@
     "page_label": "Page 2 · IMG_8993",
     "pos": "2 of 7 on this page",
     "rotation": 0,
-    "text": "MIXED BERRY\n- 1.5 lbs mixed berries\n- 1.5 lbs strawberry\n- 10.5 oz sugar\n- * heat in microwave enough to dissolve sugar; blend in food processor, strain seeds & add silver, purple, & pink edible glitter"
+    "text": "MIXED BERRY\n- 1.5 lbs mixed berries\n- 1.5 lbs strawberry\n- 10.5 oz sugar\n- * heat in microwave enough to dissolve sugar; blend in food processor, strain seeds & add silver, purple, & pink edible glitter",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8993-3",
@@ -51,7 +101,17 @@
     "page_label": "Page 2 · IMG_8993",
     "pos": "3 of 7 on this page",
     "rotation": 0,
-    "text": "HONEYBUN\n- equal parts white mocha and honey\n- 1 tbsp cinnamon"
+    "text": "HONEYBUN\n- equal parts white mocha and honey\n- 1 tbsp cinnamon",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8993-4",
@@ -60,7 +120,17 @@
     "page_label": "Page 2 · IMG_8993",
     "pos": "4 of 7 on this page",
     "rotation": 0,
-    "text": "BANANA BREAD\n- 3 bananas\n- 1 cup hot water\n- 1.25 cups brown sugar\n- 1 tbsp cinnamon\n- vanilla\n- pinch of salt\n1.5 tbsp BoH? caramel ??"
+    "text": "BANANA BREAD\n- 3 bananas\n- 1 cup hot water\n- 1.25 cups brown sugar\n- 1 tbsp cinnamon\n- vanilla\n- pinch of salt\n1.5 tbsp BoH? caramel ??",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8993-5",
@@ -69,7 +139,17 @@
     "page_label": "Page 2 · IMG_8993",
     "pos": "5 of 7 on this page",
     "rotation": 0,
-    "text": "Rosewater\n-1 cup of water\n-1 cup sugar\n-1 tbsp rosewater"
+    "text": "Rosewater\n-1 cup of water\n-1 cup sugar\n-1 tbsp rosewater",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8993-6",
@@ -78,7 +158,17 @@
     "page_label": "Page 2 · IMG_8993",
     "pos": "6 of 7 on this page",
     "rotation": 0,
-    "text": "ORANGE\n- 2 cups water\n- 2 cups sugar\n- 1 tbsp orange extract \n- orange and pink edible glitter"
+    "text": "ORANGE\n- 2 cups water\n- 2 cups sugar\n- 1 tbsp orange extract \n- orange and pink edible glitter",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8993-7",
@@ -87,7 +177,17 @@
     "page_label": "Page 2 · IMG_8993",
     "pos": "7 of 7 on this page",
     "rotation": 0,
-    "text": "BLUEBERRY Panckae\n- 3 lbs blueberries\n- 3 oz sugar\n- 3 tbsp vanilla\n- * heat in microwave enough to dissolve sugar; blend (not until smooth)\n- Add 15 grams maple syrup to water???"
+    "text": "BLUEBERRY Panckae\n- 3 lbs blueberries\n- 3 oz sugar\n- 3 tbsp vanilla\n- * heat in microwave enough to dissolve sugar; blend (not until smooth)\n- Add 15 grams maple syrup to water???",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8994-1",
@@ -96,7 +196,17 @@
     "page_label": "Page 3 · IMG_8994",
     "pos": "1 of 6 on this page",
     "rotation": 0,
-    "text": "BISCOFF SYRUP\n- 18 oz biscoff\n- 8 oz milk\n- 4 oz baking soda\n- 1 can sweetened condensed milk\n- vanilla"
+    "text": "BISCOFF SYRUP\n- 18 oz biscoff\n- 8 oz milk\n- 4 oz baking soda\n- 1 can sweetened condensed milk\n- vanilla",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8994-2",
@@ -105,7 +215,17 @@
     "page_label": "Page 3 · IMG_8994",
     "pos": "2 of 6 on this page",
     "rotation": 0,
-    "text": "PUMPKIN COLD FOAM\n- 12 oz heavy cream\n- 1 oz 10x ???\n- 0.5 oz brown sugar\n- 1 tsp pumpkin spice\n- 6 oz pumpkin"
+    "text": "PUMPKIN COLD FOAM\n- 12 oz heavy cream\n- 1 oz 10x ???\n- 0.5 oz brown sugar\n- 1 tsp pumpkin spice\n- 6 oz pumpkin",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8994-3",
@@ -114,7 +234,17 @@
     "page_label": "Page 3 · IMG_8994",
     "pos": "3 of 6 on this page",
     "rotation": 0,
-    "text": "APPLE SYRUP\n- 5 ox brown sugar\n- 8 oz water\n- 2 apples\n- 1 tsp cinnamon\n- 1/4 tsp nutmeg?"
+    "text": "APPLE SYRUP\n- 5 ox brown sugar\n- 8 oz water\n- 2 apples\n- 1 tsp cinnamon\n- 1/4 tsp nutmeg?",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8994-4",
@@ -123,7 +253,17 @@
     "page_label": "Page 3 · IMG_8994",
     "pos": "4 of 6 on this page",
     "rotation": 0,
-    "text": "CHOCOLATE COLD FOAM\n- 17 oz heavy cream\n- 2 oz ZOX???\n- 2 tbsp cacao powder"
+    "text": "CHOCOLATE COLD FOAM\n- 17 oz heavy cream\n- 2 oz ZOX???\n- 2 tbsp cacao powder",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8994-5",
@@ -132,7 +272,17 @@
     "page_label": "Page 3 · IMG_8994",
     "pos": "5 of 6 on this page",
     "rotation": 0,
-    "text": "HARVEST MOON SYRUP\n- 2 Cups of Water\n- @ Cups Honey\n- 8 oz pumpkin\n- vanilla\n- 1 tsp cardamom\n- 1 tsp ginger"
+    "text": "HARVEST MOON SYRUP\n- 2 Cups of Water\n- @ Cups Honey\n- 8 oz pumpkin\n- vanilla\n- 1 tsp cardamom\n- 1 tsp ginger",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8994-6",
@@ -141,7 +291,17 @@
     "page_label": "Page 3 · IMG_8994",
     "pos": "6 of 6 on this page",
     "rotation": 0,
-    "text": "MAPLE LEAF ?\n- 1 cup water\n- 2 cups maple syrup (23 oz)\n- 1 tsp maple extract\n- vanilla\n- 6 oz pumpkin\n- 1/2 tsp ginger\n- 1/2 tsp cinnamon"
+    "text": "MAPLE LEAF ?\n- 1 cup water\n- 2 cups maple syrup (23 oz)\n- 1 tsp maple extract\n- vanilla\n- 6 oz pumpkin\n- 1/2 tsp ginger\n- 1/2 tsp cinnamon",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-1",
@@ -150,7 +310,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "1 of 9 on this page",
     "rotation": 0,
-    "text": "HONEY ORANGE LONDON FOG?\n- tea: 12 oz water, 1 tea bag\n- latte: 8 oz tea, 3 oz milk (made too much?)\n- syrup: 1 cup honey, 1 cup water, 1 tsp orange extract"
+    "text": "HONEY ORANGE LONDON FOG?\n- tea: 12 oz water, 1 tea bag\n- latte: 8 oz tea, 3 oz milk (made too much?)\n- syrup: 1 cup honey, 1 cup water, 1 tsp orange extract",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-2",
@@ -159,7 +329,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "2 of 9 on this page",
     "rotation": 0,
-    "text": "CRANBERRY FOAM\n- 10 oz heavy cream\n- 1.8 oz cranberry syrup \n- 2 oz powdered sugar"
+    "text": "CRANBERRY FOAM\n- 10 oz heavy cream\n- 1.8 oz cranberry syrup \n- 2 oz powdered sugar",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-3",
@@ -168,7 +348,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "3 of 9 on this page",
     "rotation": 0,
-    "text": "CANDIED CRANBERRIES\nSimmer 1 Cup Cranberries in simple syrup until they start to split \nstrain & let dry on a tray for a few minutes\nToss in 1/2 cups of sugar"
+    "text": "CANDIED CRANBERRIES\nSimmer 1 Cup Cranberries in simple syrup until they start to split \nstrain & let dry on a tray for a few minutes\nToss in 1/2 cups of sugar",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-4",
@@ -177,7 +367,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "4 of 9 on this page",
     "rotation": 0,
-    "text": "GINGERBREAD COLD FAOM\n- 18 oz heavy cream\n- 1.5 oz 10x\n- 1 oz molasses\n- vanilla\n- 1 tsp cinnamon\n- 1 tsp ginger"
+    "text": "GINGERBREAD COLD FAOM\n- 18 oz heavy cream\n- 1.5 oz 10x\n- 1 oz molasses\n- vanilla\n- 1 tsp cinnamon\n- 1 tsp ginger",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-5",
@@ -186,7 +386,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "5 of 9 on this page",
     "rotation": 0,
-    "text": "Sugar Cokie Syrup\n- 2 Cups Water\n- 1 Cup Sugar\n- 1 Cup Brown Sugar\n- Vanilla\n- 1/2 tsp  almond extract\n- 1/2 tsp butter extract"
+    "text": "Sugar Cokie Syrup\n- 2 Cups Water\n- 1 Cup Sugar\n- 1 Cup Brown Sugar\n- Vanilla\n- 1/2 tsp  almond extract\n- 1/2 tsp butter extract",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-6",
@@ -195,7 +405,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "6 of 9 on this page",
     "rotation": 0,
-    "text": "VANILLA BEAN COLD FOAM\n- 18 oz heavy cream\n- 1.5 oz 10x \n- Vanilla extract\n- 1 tsp vanilla bean paste"
+    "text": "VANILLA BEAN COLD FOAM\n- 18 oz heavy cream\n- 1.5 oz 10x \n- Vanilla extract\n- 1 tsp vanilla bean paste",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-7",
@@ -204,7 +424,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "7 of 9 on this page",
     "rotation": 0,
-    "text": "TOASTED MARSHMALLOW COLD FOAM\n- Syrup 1:1 toasted marshmallows:water\n- toasted = oven 15min\n- boil and strain marshmallows & water (very thick)\n- 1 1 CBS 8.5 C water\n- 1 lbs marshmallows\n-16oz Marshmallows\n-20 oz water\n- 1 cup BS Vanilla\nCOLD FOAM:1:2 Syrup:Heavy Cream+ Vanilla\nWhip cream first, then fold in marshmallow syrup \nweird texture when whipped together"
+    "text": "TOASTED MARSHMALLOW COLD FOAM\n- Syrup 1:1 toasted marshmallows:water\n- toasted = oven 15min\n- boil and strain marshmallows & water (very thick)\n- 1 1 CBS 8.5 C water\n- 1 lbs marshmallows\n-16oz Marshmallows\n-20 oz water\n- 1 cup BS Vanilla\nCOLD FOAM:1:2 Syrup:Heavy Cream+ Vanilla\nWhip cream first, then fold in marshmallow syrup \nweird texture when whipped together",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-8",
@@ -213,7 +443,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "8 of 9 on this page",
     "rotation": 0,
-    "text": "MEXICAN HOT CHOCOLATE\n- 6oz cocoa powder \n- 2Cups hot water\n- 15 oz sugar\n- Vanilla\n- 1 tsp cinnamon\n- 1/2 tsp cayenne"
+    "text": "MEXICAN HOT CHOCOLATE\n- 6oz cocoa powder \n- 2Cups hot water\n- 15 oz sugar\n- Vanilla\n- 1 tsp cinnamon\n- 1/2 tsp cayenne",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8995-9",
@@ -222,7 +462,17 @@
     "page_label": "Page 4 · IMG_8995",
     "pos": "9 of 9 on this page",
     "rotation": 0,
-    "text": "Raspberry Cold Foam:\n- 1:2 jam: HC ??\nRaspberry puree: 12\n- 3lbs berries\n-boil, mash, strain\n- 12 oz jar???"
+    "text": "Raspberry Cold Foam:\n- 1:2 jam: HC ??\nRaspberry puree: 12\n- 3lbs berries\n-boil, mash, strain\n- 12 oz jar???",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-1",
@@ -231,7 +481,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "1 of 11 on this page",
     "rotation": 0,
-    "text": "GRASSHOPPER\n- 6 oz white chocolate chips\n- 6 oz peppermint chips\n- milk just to cover chips\n- 1 can sweetened condensed milk\n- vanilla\n- 1 tsp peppermint extract"
+    "text": "GRASSHOPPER\n- 6 oz white chocolate chips\n- 6 oz peppermint chips\n- milk just to cover chips\n- 1 can sweetened condensed milk\n- vanilla\n- 1 tsp peppermint extract",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-2",
@@ -240,7 +500,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "2 of 11 on this page",
     "rotation": 0,
-    "text": "PISTACHIO COLD FOAM\n- 40 oz heavy cream\n- 8 oz pistachio cream\n- 2 oz powdered sugar\n- vanilla"
+    "text": "PISTACHIO COLD FOAM\n- 40 oz heavy cream\n- 8 oz pistachio cream\n- 2 oz powdered sugar\n- vanilla",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-3",
@@ -249,7 +519,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "3 of 11 on this page",
     "rotation": 0,
-    "text": "BUTTERFLY PEA FLOWER TEA  \n- 20 grams flowers\n- 20 cups water\n- cold brew overnight"
+    "text": "BUTTERFLY PEA FLOWER TEA  \n- 20 grams flowers\n- 20 cups water\n- cold brew overnight",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-4",
@@ -258,7 +538,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "4 of 11 on this page",
     "rotation": 0,
-    "text": "SHORTBREAD SYRUP  \n- 1 cup sugar\n- 1 cup brown sugar\n- 2 cups water\n- 1 T vanilla extract\n- 2 tsp butter extract\n- 2 tsp rum extract"
+    "text": "SHORTBREAD SYRUP  \n- 1 cup sugar\n- 1 cup brown sugar\n- 2 cups water\n- 1 T vanilla extract\n- 2 tsp butter extract\n- 2 tsp rum extract",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-5",
@@ -267,7 +557,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "5 of 11 on this page",
     "rotation": 0,
-    "text": "MARSCAPONE COLD FOAM\n-1:2:0.5\n-Marscapone:HC:10x\n-vanilla"
+    "text": "MARSCAPONE COLD FOAM\n-1:2:0.5\n-Marscapone:HC:10x\n-vanilla",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-6",
@@ -276,7 +576,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "6 of 11 on this page",
     "rotation": 0,
-    "text": "SHORTBREAD SYRUP  \n- 1 cup brown sugar [?]\n- 1 cup [water?]\n- 1 T vanilla\n- 2.5 [oz] butter extract\n- 2.1 [oz raw extract?] [?]"
+    "text": "SHORTBREAD SYRUP  \n- 1 cup brown sugar [?]\n- 1 cup [water?]\n- 1 T vanilla\n- 2.5 [oz] butter extract\n- 2.1 [oz raw extract?] [?]",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-7",
@@ -285,7 +595,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "7 of 11 on this page",
     "rotation": 0,
-    "text": "FRENCH TOAST  CF?\n- 2 Cups Maple\n- 2 Cups water\n- 1 tsp molasses\n- 2 tsp cinnamon\n- 0.25 tsp nutmeg\n- 1 tsp maple extract"
+    "text": "FRENCH TOAST  CF?\n- 2 Cups Maple\n- 2 Cups water\n- 1 tsp molasses\n- 2 tsp cinnamon\n- 0.25 tsp nutmeg\n- 1 tsp maple extract",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-8",
@@ -294,7 +614,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "8 of 11 on this page",
     "rotation": 0,
-    "text": "Carrot CF?\n-2 Cups Carrot Juice\n-2 Cups BS\n-1 oz caramel\n-1 tsp cinnamon\n-0.5 tsp ginger\n-0.5 tsp nutmeg"
+    "text": "Carrot CF?\n-2 Cups Carrot Juice\n-2 Cups BS\n-1 oz caramel\n-1 tsp cinnamon\n-0.5 tsp ginger\n-0.5 tsp nutmeg",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-9",
@@ -303,7 +633,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "9 of 11 on this page",
     "rotation": 0,
-    "text": "Cream Cheese CF\n-40 oz heavy cream\n-16 oz cream cheese\n-5 oz 10x\n-vanilla"
+    "text": "Cream Cheese CF\n-40 oz heavy cream\n-16 oz cream cheese\n-5 oz 10x\n-vanilla",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-10",
@@ -312,7 +652,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "10 of 11 on this page",
     "rotation": 0,
-    "text": "Caramel Sugar\n- 1 Cup brown sugar\n- Vanilla\n-rum extract\n-butter extract\n-caramel(Bake 15 min bubbly, cool, grind)"
+    "text": "Caramel Sugar\n- 1 Cup brown sugar\n- Vanilla\n-rum extract\n-butter extract\n-caramel(Bake 15 min bubbly, cool, grind)",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "IMG_8996-11",
@@ -321,7 +671,17 @@
     "page_label": "Page 5 · IMG_8996",
     "pos": "11 of 11 on this page",
     "rotation": 0,
-    "text": "Salted Carmel Cold Foam\n- 18 oz Heavy Cream\n- 7 oz caramel (bake?)\n- 1/2 tsp salt\n- vanilla"
+    "text": "Salted Carmel Cold Foam\n- 18 oz Heavy Cream\n- 7 oz caramel (bake?)\n- 1/2 tsp salt\n- vanilla",
+    "est_labor": {
+      "Prep / Kitchen": 12
+    },
+    "est_equipment": {
+      "Blender": 6,
+      "Stovetop / Range": 8
+    },
+    "est_skills": [
+      "Cold foam technique"
+    ]
   },
   {
     "id": "docx-01",
@@ -332,7 +692,15 @@
     "typed": true,
     "yield_qty": "90",
     "yield_unit": "cookies",
-    "text": "Chocolate Chip Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n8 cups sugar\n8 cups brown sugar\n16 eggs\nVanilla\n128 oz AP flour\n8 tsp baking soda\n8 tsp baking powder\n4 tsp salt\n16 cups chocolate chips\n[Procedure:]{.underline}\n- Cream butter, sugar, and brown sugar\n- Add eggs & vanilla, mix until combined\n- Add flour, bs, bp, salt, and chocolate chips. Mix until just combined\n- Scoop heaping GREEN scoop, 4.75 oz"
+    "text": "Chocolate Chip Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n8 cups sugar\n8 cups brown sugar\n16 eggs\nVanilla\n128 oz AP flour\n8 tsp baking soda\n8 tsp baking powder\n4 tsp salt\n16 cups chocolate chips\n[Procedure:]{.underline}\n- Cream butter, sugar, and brown sugar\n- Add eggs & vanilla, mix until combined\n- Add flour, bs, bp, salt, and chocolate chips. Mix until just combined\n- Scoop heaping GREEN scoop, 4.75 oz",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-02",
@@ -343,7 +711,15 @@
     "typed": true,
     "yield_qty": "90",
     "yield_unit": "cookies",
-    "text": "Peanut Butter Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n8 cups sugar\n8 cups brown sugar\n100 oz peanut butter\n16 eggs\nVanilla\n96 oz AP flour\n5 Tbsp + 1 tsp baking soda\n4 tsp salt\n[Procedure:]{.underline}\n- Cream butter, sugar, brown sugar and peanut butter\n- Add eggs & vanilla, mix until combined\n- Add flour, bs, and salt. Mix until just combined\n- Scoop heaping GREEN scoop, 4.75 oz"
+    "text": "Peanut Butter Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n8 cups sugar\n8 cups brown sugar\n100 oz peanut butter\n16 eggs\nVanilla\n96 oz AP flour\n5 Tbsp + 1 tsp baking soda\n4 tsp salt\n[Procedure:]{.underline}\n- Cream butter, sugar, brown sugar and peanut butter\n- Add eggs & vanilla, mix until combined\n- Add flour, bs, and salt. Mix until just combined\n- Scoop heaping GREEN scoop, 4.75 oz",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-03",
@@ -354,7 +730,15 @@
     "typed": true,
     "yield_qty": "90",
     "yield_unit": "cookies",
-    "text": "Oatmeal Raisin Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n6 cups sugar\n6 cups brown sugar\n16 eggs\nVanilla\n72 oz oats\n40 oz raisins\n64 oz AP flour\n8 tsp baking soda\n8 tsp baking powder\n8 tsp cinnamon\n4 tsp salt\n[Procedure:]{.underline}\n- Cream butter, sugar, and brown sugar\n- Add eggs & vanilla, mix until combined\n- Add flour, bs, bp, salt, oats, and raisins. Mix until just combined\n- Scoop heaping GREEN scoop, 4.75 oz"
+    "text": "Oatmeal Raisin Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n6 cups sugar\n6 cups brown sugar\n16 eggs\nVanilla\n72 oz oats\n40 oz raisins\n64 oz AP flour\n8 tsp baking soda\n8 tsp baking powder\n8 tsp cinnamon\n4 tsp salt\n[Procedure:]{.underline}\n- Cream butter, sugar, and brown sugar\n- Add eggs & vanilla, mix until combined\n- Add flour, bs, bp, salt, oats, and raisins. Mix until just combined\n- Scoop heaping GREEN scoop, 4.75 oz",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-04",
@@ -365,7 +749,15 @@
     "typed": true,
     "yield_qty": "90",
     "yield_unit": "cookies",
-    "text": "Snickerdoodle Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n6 cups sugar\n4 cups brown sugar\n12 eggs\nVanilla\n8 tsp lemon juice\n88 oz AP flour\n8 tsp baking soda\n8 tsp cinnamon\n4 tsp salt\n[Procedure:]{.underline}\n- Cream butter, sugar, and brown sugar\n- Add eggs, vanilla, & lemon juice. Mix until combined\n- Add flour, bs, cinnamon and salt. Mix until just combined\n- Scoop heaping BLUE scoop, 3.75 oz"
+    "text": "Snickerdoodle Cookies\n\n[Ingredients:]{.underline}\n4lbs butter (soft)\n6 cups sugar\n4 cups brown sugar\n12 eggs\nVanilla\n8 tsp lemon juice\n88 oz AP flour\n8 tsp baking soda\n8 tsp cinnamon\n4 tsp salt\n[Procedure:]{.underline}\n- Cream butter, sugar, and brown sugar\n- Add eggs, vanilla, & lemon juice. Mix until combined\n- Add flour, bs, cinnamon and salt. Mix until just combined\n- Scoop heaping BLUE scoop, 3.75 oz",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-05",
@@ -376,7 +768,15 @@
     "typed": true,
     "yield_qty": "30",
     "yield_unit": "cookies",
-    "text": "Ginger Molasses Cookies\n\n[Ingredients:]{.underline}\n2 lbs sugar\n22 oz oil\n4 eggs\n10.7 oz molasses\n2 tsp salt\n3 Tbsp baking soda\n2 Tbsp ginger\n1 Tbsp + 1 tsp cinnamon\n2 lbs 9 oz BREAD flour\n[Procedure:]{.underline}\n- Mix sugar, oil, & molasses\n- Add eggs, mix until combined\n- Add flour, salt, bs, cinnamon, & ginger. Mix until combined\n- \\*keep ginger away from baking soda\\*\n- Scoop flat GREEN scoop"
+    "text": "Ginger Molasses Cookies\n\n[Ingredients:]{.underline}\n2 lbs sugar\n22 oz oil\n4 eggs\n10.7 oz molasses\n2 tsp salt\n3 Tbsp baking soda\n2 Tbsp ginger\n1 Tbsp + 1 tsp cinnamon\n2 lbs 9 oz BREAD flour\n[Procedure:]{.underline}\n- Mix sugar, oil, & molasses\n- Add eggs, mix until combined\n- Add flour, salt, bs, cinnamon, & ginger. Mix until combined\n- \\*keep ginger away from baking soda\\*\n- Scoop flat GREEN scoop",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-06",
@@ -387,7 +787,18 @@
     "typed": true,
     "yield_qty": "6",
     "yield_unit": "\" cake or 18 cupcakes",
-    "text": "Hummingbird Cake\n\n[Ingredients:]{.underline}\n2 cups sugar\n3 eggs\n1.5 cups oil\nVanilla\n8 oz pineapple\n3 ripe bananas\n12 oz AP flour\n1 tsp baking soda\n0.5 tsp salt\n1 tsp cinnamon\n0.25 tsp nutmeg\n0.25 tsp clove\n2 oz pecans (chopped & toasted)\n[Procedure:]{.underline}\n- Mix sugar, eggs, oil, vanilla, pineapple, & bananas with paddle on\n  small mixer\n- Fold in flour, bs, salt, cinnamon, nutmeg, clove, and pecans until\n  combined"
+    "text": "Hummingbird Cake\n\n[Ingredients:]{.underline}\n2 cups sugar\n3 eggs\n1.5 cups oil\nVanilla\n8 oz pineapple\n3 ripe bananas\n12 oz AP flour\n1 tsp baking soda\n0.5 tsp salt\n1 tsp cinnamon\n0.25 tsp nutmeg\n0.25 tsp clove\n2 oz pecans (chopped & toasted)\n[Procedure:]{.underline}\n- Mix sugar, eggs, oil, vanilla, pineapple, & bananas with paddle on\n  small mixer\n- Fold in flour, bs, salt, cinnamon, nutmeg, clove, and pecans until\n  combined",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-07",
@@ -398,7 +809,15 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": ") 9\" pie",
-    "text": "Peanut Butter Pie\n\n[Filling Ingredients:]{.underline}\n8 oz cream cheese\n3 oz 10x\n8 oz peanut butter\n8 oz heavy cream\n[Crust Ingredients:]{.underline}\n24 oreos\n2 oz butter\n[Filling Procedure:]{.underline}\n- Whip heavy cream with whisk attachment until stiff peaks\n- In separate bowl, mix cream cheese, 10x, and peanut butter with paddle\n  attachment until smooth\n- Fold whipped cream into peanut butter mix\n[Crust Procedure:]{.underline}\n- Food process oreos into crumbs. Add butter until wet enough to press\n  into the pie pan.\n- Bake crust 7-9 minutes, or until it smells chocolatey and done\nOnce crust is cooled, add filling and smooth with offset spatula. Top\nwith ganache drizzle & peanut butter candies. Refrigerate pie!"
+    "text": "Peanut Butter Pie\n\n[Filling Ingredients:]{.underline}\n8 oz cream cheese\n3 oz 10x\n8 oz peanut butter\n8 oz heavy cream\n[Crust Ingredients:]{.underline}\n24 oreos\n2 oz butter\n[Filling Procedure:]{.underline}\n- Whip heavy cream with whisk attachment until stiff peaks\n- In separate bowl, mix cream cheese, 10x, and peanut butter with paddle\n  attachment until smooth\n- Fold whipped cream into peanut butter mix\n[Crust Procedure:]{.underline}\n- Food process oreos into crumbs. Add butter until wet enough to press\n  into the pie pan.\n- Bake crust 7-9 minutes, or until it smells chocolatey and done\nOnce crust is cooled, add filling and smooth with offset spatula. Top\nwith ganache drizzle & peanut butter candies. Refrigerate pie!",
+    "est_labor": {
+      "Baker": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 9
+    },
+    "est_skills": []
   },
   {
     "id": "docx-08",
@@ -409,7 +828,15 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "half sheet pan/24 brownies",
-    "text": "GF Brownies\n\n[Ingredients:]{.underline}\n12 oz butter\n3 lb chocolate chips\n3 cups sugar\n12 eggs\nvanilla\n6 oz corn starch\n4 oz cocoa powder\n1 tsp cinnamon\n0.75 tsp salt\n[Procedure:]{.underline}\n- Melt butter & chocolate in glass bowl in microwave, 3:30. Pour into\n  small mixer bowl\n- With paddle attachment, add sugar until combined and slightly cooled\n- Add eggs and vanilla\n- Add cornstarch, cocoa powder, cinnamon, salt. Mix until fully combined\n- Spray and line a half sheet pan. Pour batter and spread evenly into\n  pan.\n- Bake 30 min. Let cool overnight, unwrapped"
+    "text": "GF Brownies\n\n[Ingredients:]{.underline}\n12 oz butter\n3 lb chocolate chips\n3 cups sugar\n12 eggs\nvanilla\n6 oz corn starch\n4 oz cocoa powder\n1 tsp cinnamon\n0.75 tsp salt\n[Procedure:]{.underline}\n- Melt butter & chocolate in glass bowl in microwave, 3:30. Pour into\n  small mixer bowl\n- With paddle attachment, add sugar until combined and slightly cooled\n- Add eggs and vanilla\n- Add cornstarch, cocoa powder, cinnamon, salt. Mix until fully combined\n- Spray and line a half sheet pan. Pour batter and spread evenly into\n  pan.\n- Bake 30 min. Let cool overnight, unwrapped",
+    "est_labor": {
+      "Baker": 18
+    },
+    "est_equipment": {
+      "Stand Mixer": 6,
+      "Oven": 30
+    },
+    "est_skills": []
   },
   {
     "id": "docx-09",
@@ -420,7 +847,15 @@
     "typed": true,
     "yield_qty": "12",
     "yield_unit": "muffins",
-    "text": "Zucchini Muffins\n\n[Ingredients:]{.underline}\n2 large zucchini\n1.5 cups sugar\n1 cup brown sugar\n0.5 cup oil\n0.5 cup butter milk\n4 eggs\nvanilla\n16 oz flour\n2 tsp baking soda\n2 tsp baking powder\n1 tsp salt\n2 tsp cinnamon\n[Procedure:]{.underline}\n- Grate & strain zucchinis\n- Mix sugar, brown sugar, oil, buttermilk, eggs, vanilla\n- Fold in flour, bs, bp, cinnamon, and salt\n- Fold in zucchini\n- Top muffins with streusel or brown sugar before baking"
+    "text": "Zucchini Muffins\n\n[Ingredients:]{.underline}\n2 large zucchini\n1.5 cups sugar\n1 cup brown sugar\n0.5 cup oil\n0.5 cup butter milk\n4 eggs\nvanilla\n16 oz flour\n2 tsp baking soda\n2 tsp baking powder\n1 tsp salt\n2 tsp cinnamon\n[Procedure:]{.underline}\n- Grate & strain zucchinis\n- Mix sugar, brown sugar, oil, buttermilk, eggs, vanilla\n- Fold in flour, bs, bp, cinnamon, and salt\n- Fold in zucchini\n- Top muffins with streusel or brown sugar before baking",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 18
+    },
+    "est_skills": []
   },
   {
     "id": "docx-10",
@@ -431,7 +866,14 @@
     "typed": true,
     "yield_qty": "7",
     "yield_unit": "lbs filling",
-    "text": "Apple Filling\n\n[Ingredients:]{.underline}\n18 apples\n1.5 cups brown sugar\n2 oz flour\n3 Tbsp cinnamon\n0.75 tsp clove\n0.75 tsp nutmeg\n1 oz lemon juice\n[Procedure:]{.underline}\n- Peel and cut apples in thin slices\n- Coat with brown sugar, flour, cinnamon, clove, nutmeg, and lemon juice\n- Cook on low heat, until slightly soft. Stir often"
+    "text": "Apple Filling\n\n[Ingredients:]{.underline}\n18 apples\n1.5 cups brown sugar\n2 oz flour\n3 Tbsp cinnamon\n0.75 tsp clove\n0.75 tsp nutmeg\n1 oz lemon juice\n[Procedure:]{.underline}\n- Peel and cut apples in thin slices\n- Coat with brown sugar, flour, cinnamon, clove, nutmeg, and lemon juice\n- Cook on low heat, until slightly soft. Stir often",
+    "est_labor": {
+      "Prep / Kitchen": 15
+    },
+    "est_equipment": {
+      "Stovetop / Range": 15
+    },
+    "est_skills": []
   },
   {
     "id": "docx-11",
@@ -442,7 +884,15 @@
     "typed": true,
     "yield_qty": "30",
     "yield_unit": "macs",
-    "text": "Coconut Macaroons\n\n[Ingredients:]{.underline}\n3 lb 5 oz shredded coconut\n6 oz egg whites\n2 cans sweetened condensed milk\n0.5 oz vanilla\n[Procedure:]{.underline}\n- Mix all ingredients well.\n- Heaping YELLOW scoop\n- Bake 7 min, turn, 3 more minutes (or until golden)"
+    "text": "Coconut Macaroons\n\n[Ingredients:]{.underline}\n3 lb 5 oz shredded coconut\n6 oz egg whites\n2 cans sweetened condensed milk\n0.5 oz vanilla\n[Procedure:]{.underline}\n- Mix all ingredients well.\n- Heaping YELLOW scoop\n- Bake 7 min, turn, 3 more minutes (or until golden)",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 7
+    },
+    "est_skills": []
   },
   {
     "id": "docx-12",
@@ -453,7 +903,18 @@
     "typed": true,
     "yield_qty": "8",
     "yield_unit": "\" cake or 24 cupcakes",
-    "text": "Chocolate Cake\n\n[Ingredients:]{.underline}\n3 cups sugar\n10 oz flour\n5 oz cocoa powder\n2.25 tsp baking soda\n2.25 tsp baking powder\n0.5 tsp salt\n1.5 cups milk\n0.75 cup oil\n3 eggs\nVanilla\n12 oz coffee\n[Procedure:]{.underline}\n- Mix sugar, flour, cocoa, soda, powder and salt\n- Add in milk, oil, eggs & vanilla. Mix\n- Mix in coffee last"
+    "text": "Chocolate Cake\n\n[Ingredients:]{.underline}\n3 cups sugar\n10 oz flour\n5 oz cocoa powder\n2.25 tsp baking soda\n2.25 tsp baking powder\n0.5 tsp salt\n1.5 cups milk\n0.75 cup oil\n3 eggs\nVanilla\n12 oz coffee\n[Procedure:]{.underline}\n- Mix sugar, flour, cocoa, soda, powder and salt\n- Add in milk, oil, eggs & vanilla. Mix\n- Mix in coffee last",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-13",
@@ -464,7 +925,18 @@
     "typed": true,
     "yield_qty": "8",
     "yield_unit": "\" cake or 24 cupcakes",
-    "text": "Red Velvet Cake\n\n[Ingredients:]{.underline}\n3 c sugar\n16 oz flour\n1 oz cocoa powder\n2 tsp baking powder\n2 tsp baking soda\n0.5 tsp salt\n1.5 cup oil\n1.5 cup buttermilk\n4 eggs\nRed food color\nVanilla extract\n0.5 tsp vinegar\n8 oz coffee\n[Procedure:]{.underline}\n- Mix sugar, flour, cocoa, bakin gunpowder, baking soda and salt\n- Add oil, buttermilk, eggs, red color, vanilla and vinegar\n- Mix in coffee last"
+    "text": "Red Velvet Cake\n\n[Ingredients:]{.underline}\n3 c sugar\n16 oz flour\n1 oz cocoa powder\n2 tsp baking powder\n2 tsp baking soda\n0.5 tsp salt\n1.5 cup oil\n1.5 cup buttermilk\n4 eggs\nRed food color\nVanilla extract\n0.5 tsp vinegar\n8 oz coffee\n[Procedure:]{.underline}\n- Mix sugar, flour, cocoa, bakin gunpowder, baking soda and salt\n- Add oil, buttermilk, eggs, red color, vanilla and vinegar\n- Mix in coffee last",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-14",
@@ -475,7 +947,18 @@
     "typed": true,
     "yield_qty": "8",
     "yield_unit": "\" cake or 21 cupcakes",
-    "text": "Vanilla Cake\n\n[Ingredients:]{.underline}\n6 eggs\n3 cups sugar\nVanilla\n12 oz flour\n1 Tbsp baking powder\n0.5 tsp salt\n1.5 cups milk\n0.5 cup oil\n3 oz butter\n[Procedure:]{.underline}\n- Combine milk, oil and butter in a glass pyrex. Microwave 3:30 or until\n  completely melted\n- Mix eggs, sugar and vanilla VERY WELL. They should be light in color\n  and full of volume.\n- Add flour, baking powder and salt. Mix lightly, until just combined\n- Pour hot milk/oil/butter mix on top. Whisk until combined."
+    "text": "Vanilla Cake\n\n[Ingredients:]{.underline}\n6 eggs\n3 cups sugar\nVanilla\n12 oz flour\n1 Tbsp baking powder\n0.5 tsp salt\n1.5 cups milk\n0.5 cup oil\n3 oz butter\n[Procedure:]{.underline}\n- Combine milk, oil and butter in a glass pyrex. Microwave 3:30 or until\n  completely melted\n- Mix eggs, sugar and vanilla VERY WELL. They should be light in color\n  and full of volume.\n- Add flour, baking powder and salt. Mix lightly, until just combined\n- Pour hot milk/oil/butter mix on top. Whisk until combined.",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-15",
@@ -486,7 +969,15 @@
     "typed": true,
     "yield_qty": "165",
     "yield_unit": "cookies",
-    "text": "Italian Wedding Cookies\n\n[Ingredients:]{.underline}\n4 lbs butter (soft)\n456 g 10x\nVanilla extract\nAlmond extract\n2 tsp salt\n576 g almond flour\n2152 g AP flour\n[Procedure:]{.underline}\n- Cream butter, 10x, vanilla and almond extract\n- Mix in salt, almond flour, and AP flour until combined\n- Heaping with small silver scoop\nSyrups\n[Caramel:]{.underline} [Vanilla:]{.underline}\n4 cups sugar 2 cups water\n2 cups water 2 cups sugar\n3 cups heavy cream 1 tbsp vanilla bean paste\n1 tsp vanilla extract\n[Mocha:]{.underline}\n2 c sugar [Hibiscus Tea:]{.underline}\n2 c water 2400 g water\n6 oz cocoa powder 45 g hibiscus\nVanilla 10 g orange peel\nPinch of salt -steep overnight & strain-\n[White Mocha:]{.underline} [Pumpkin Spice:]{.underline}\n1 can condensed milk 4 cups water\n0.5 tsp vanilla 3 cups sugar\n0.25 cup milk 1 cup brown sugar\n11 oz white chocolate 2 tsp cinnamon\n1 tsp ginger\n[Honey Lavender:]{.underline} 1 tsp clove\n16 oz honey 1 tsp nutmeg\n16 oz water 6 oz pumpkin\n0.35 oz lavender\n-Steep 1 hour & strain-\n[Brown Sugar:]{.underline}\n2 c water\n2 c brown sugar"
+    "text": "Italian Wedding Cookies\n\n[Ingredients:]{.underline}\n4 lbs butter (soft)\n456 g 10x\nVanilla extract\nAlmond extract\n2 tsp salt\n576 g almond flour\n2152 g AP flour\n[Procedure:]{.underline}\n- Cream butter, 10x, vanilla and almond extract\n- Mix in salt, almond flour, and AP flour until combined\n- Heaping with small silver scoop\nSyrups\n[Caramel:]{.underline} [Vanilla:]{.underline}\n4 cups sugar 2 cups water\n2 cups water 2 cups sugar\n3 cups heavy cream 1 tbsp vanilla bean paste\n1 tsp vanilla extract\n[Mocha:]{.underline}\n2 c sugar [Hibiscus Tea:]{.underline}\n2 c water 2400 g water\n6 oz cocoa powder 45 g hibiscus\nVanilla 10 g orange peel\nPinch of salt -steep overnight & strain-\n[White Mocha:]{.underline} [Pumpkin Spice:]{.underline}\n1 can condensed milk 4 cups water\n0.5 tsp vanilla 3 cups sugar\n0.25 cup milk 1 cup brown sugar\n11 oz white chocolate 2 tsp cinnamon\n1 tsp ginger\n[Honey Lavender:]{.underline} 1 tsp clove\n16 oz honey 1 tsp nutmeg\n16 oz water 6 oz pumpkin\n0.35 oz lavender\n-Steep 1 hour & strain-\n[Brown Sugar:]{.underline}\n2 c water\n2 c brown sugar",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-16",
@@ -497,7 +988,18 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "half sheet cake pan (18 slices)",
-    "text": "Coffee Cake\n\n**Crumb Top**\n[Ingredients:]{.underline}\n4 c Brown Sugar\n25 oz flour\n4 Tbsp cinnamon\n1 tsp salt\n12 oz (melted) butter\n[Procedure:]{.underline}\n- Mix until just combined, no visible dryness\n**Cake**\n[Ingredients:]{.underline}\n6 oz butter\n3 cups sugar\n4 eggs\n2.5 cups buttermilk\n1 Tbsp vanilla\n0.5 tsp lemon\n25 oz flour\n1 tsp baking powder\n2 tsp baking soda\n1 tsp salt\n[Procedure]{.underline}\n- Cream butter, sugar, vanilla and lemon\n- Add eggs (mix until very light & fluffy)\n- Mix flour, powder, soda and salt in a separate bowl\n- Alternate flour mix & buttermilk\nPut fruit filling between cake and cake"
+    "text": "Coffee Cake\n\n**Crumb Top**\n[Ingredients:]{.underline}\n4 c Brown Sugar\n25 oz flour\n4 Tbsp cinnamon\n1 tsp salt\n12 oz (melted) butter\n[Procedure:]{.underline}\n- Mix until just combined, no visible dryness\n**Cake**\n[Ingredients:]{.underline}\n6 oz butter\n3 cups sugar\n4 eggs\n2.5 cups buttermilk\n1 Tbsp vanilla\n0.5 tsp lemon\n25 oz flour\n1 tsp baking powder\n2 tsp baking soda\n1 tsp salt\n[Procedure]{.underline}\n- Cream butter, sugar, vanilla and lemon\n- Add eggs (mix until very light & fluffy)\n- Mix flour, powder, soda and salt in a separate bowl\n- Alternate flour mix & buttermilk\nPut fruit filling between cake and cake",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-17",
@@ -508,7 +1010,18 @@
     "typed": true,
     "yield_qty": "8",
     "yield_unit": "x8 cake (9 slices)",
-    "text": "Pistachio Cake\n\n[Ingredients:]{.underline}\n4 oz oil\n4 oz soft butter\n10.5 oz sugar\n2 eggs\n2 egg whites\n2 tsp vanilla\n0.5 tsp almond extract\n6 oz buttermilk\n6 oz milk\n7 oz ground pistachio\n10 oz flour\n0.5 tsp salt\n0.5 tsp baking soda\n1 Tbsp baking powder\n[Procedure:]{.underline}\n- Whisk oil and butter\n- Add sugar, mix on high until light in color\n- Add eggs, whites, almond and vanilla extract. Whisk\n- Slowly whisk in milk and buttermilk\n- Fold in pistachios, flour, salt, soda and powder"
+    "text": "Pistachio Cake\n\n[Ingredients:]{.underline}\n4 oz oil\n4 oz soft butter\n10.5 oz sugar\n2 eggs\n2 egg whites\n2 tsp vanilla\n0.5 tsp almond extract\n6 oz buttermilk\n6 oz milk\n7 oz ground pistachio\n10 oz flour\n0.5 tsp salt\n0.5 tsp baking soda\n1 Tbsp baking powder\n[Procedure:]{.underline}\n- Whisk oil and butter\n- Add sugar, mix on high until light in color\n- Add eggs, whites, almond and vanilla extract. Whisk\n- Slowly whisk in milk and buttermilk\n- Fold in pistachios, flour, salt, soda and powder",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-18",
@@ -519,7 +1032,18 @@
     "typed": true,
     "yield_qty": "4",
     "yield_unit": "bundts",
-    "text": "Apple Cake\n\n[Ingredients:]{.underline}\n44 oz oil\n12 eggs\n48 oz sugar\n16 oz brown sugar\nvanilla\n48 oz flour\n1T + 1t cinnamon\n1T + 1t baking soda\n2 tsp nutmeg\n2 tsp clove\n2 tsp salt\n12 apples (peeled & cubed)\n[Procedure:]{.underline}\n- Whisk oil, eggs, sugar, brown sugar, vanilla\n- Fold in flour, cinnamon, baking soda, nutmeg, clove & salt\n- Fold in apples\n- Scale 3# 5 oz, bake for 55 min"
+    "text": "Apple Cake\n\n[Ingredients:]{.underline}\n44 oz oil\n12 eggs\n48 oz sugar\n16 oz brown sugar\nvanilla\n48 oz flour\n1T + 1t cinnamon\n1T + 1t baking soda\n2 tsp nutmeg\n2 tsp clove\n2 tsp salt\n12 apples (peeled & cubed)\n[Procedure:]{.underline}\n- Whisk oil, eggs, sugar, brown sugar, vanilla\n- Fold in flour, cinnamon, baking soda, nutmeg, clove & salt\n- Fold in apples\n- Scale 3# 5 oz, bake for 55 min",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 55
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-19",
@@ -530,7 +1054,17 @@
     "typed": true,
     "yield_qty": "48",
     "yield_unit": "-50 donuts (4.5 kg)",
-    "text": "Donut Dough\n\n[Ingredients:]{.underline}\n1282 g water\n558 g oil\n754 g eggs\n135 g egg yolks\n3680 g AP flour\n68 g salt\n475 g sugar\n90 g yeast\n[Procedure:]{.underline}\nSpeed 1, 3:30\nSpeed 2, 13:30"
+    "text": "Donut Dough\n\n[Ingredients:]{.underline}\n1282 g water\n558 g oil\n754 g eggs\n135 g egg yolks\n3680 g AP flour\n68 g salt\n475 g sugar\n90 g yeast\n[Procedure:]{.underline}\nSpeed 1, 3:30\nSpeed 2, 13:30",
+    "est_labor": {
+      "Baker": 35
+    },
+    "est_equipment": {
+      "Stand Mixer": 10,
+      "Oven": 15
+    },
+    "est_skills": [
+      "Bread / dough"
+    ]
   },
   {
     "id": "docx-20",
@@ -541,7 +1075,18 @@
     "typed": true,
     "yield_qty": "6",
     "yield_unit": "\" cake or 18 cupcakes",
-    "text": "Hummingbird Cake\n\n[Ingredients:]{.underline}\n2 cups sugar\n3 eggs\n1.5 cups oil\nVanilla\n8 oz pineapple\n3 ripe bananas\n12 oz AP flour\n1 tsp baking soda\n0.5 tsp salt\n1 tsp cinnamon\n0.25 tsp nutmeg\n0.25 tsp clove\n2 oz pecans (chopped & toasted)\n[Procedure:]{.underline}\n- Mix sugar, eggs, oil, vanilla, pineapple, & bananas with paddle on\n  small mixer\n- Fold in flour, bs, salt, cinnamon, nutmeg, clove, and pecans until\n  combined"
+    "text": "Hummingbird Cake\n\n[Ingredients:]{.underline}\n2 cups sugar\n3 eggs\n1.5 cups oil\nVanilla\n8 oz pineapple\n3 ripe bananas\n12 oz AP flour\n1 tsp baking soda\n0.5 tsp salt\n1 tsp cinnamon\n0.25 tsp nutmeg\n0.25 tsp clove\n2 oz pecans (chopped & toasted)\n[Procedure:]{.underline}\n- Mix sugar, eggs, oil, vanilla, pineapple, & bananas with paddle on\n  small mixer\n- Fold in flour, bs, salt, cinnamon, nutmeg, clove, and pecans until\n  combined",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-21",
@@ -552,7 +1097,14 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Crumb Top\n\n[Ingredients:]{.underline}\n1140 g AP Flour\n1060 g brown sugar\n460 g oats\n¼ tsp salt\n1140 g cold butter, cubed\n[Procedure:]{.underline}\n- Mix all ingredients in large mixer bowl. Mix on low speed with paddle\n  attachment until butter is broken down"
+    "text": "Crumb Top\n\n[Ingredients:]{.underline}\n1140 g AP Flour\n1060 g brown sugar\n460 g oats\n¼ tsp salt\n1140 g cold butter, cubed\n[Procedure:]{.underline}\n- Mix all ingredients in large mixer bowl. Mix on low speed with paddle\n  attachment until butter is broken down",
+    "est_labor": {
+      "Prep / Kitchen": 15
+    },
+    "est_equipment": {
+      "Stovetop / Range": 15
+    },
+    "est_skills": []
   },
   {
     "id": "docx-22",
@@ -563,7 +1115,17 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Sticky Bun Smear\n\n[Ingredients:]{.underline}\n5 cups brown sugar\n1 lb butter\n12 oz honey\n5 oz corn syrup\n[Procedure:]{.underline}\n- Mix all ingredients in a large glass bowl. Microwave until melted and\n  whisk together."
+    "text": "Sticky Bun Smear\n\n[Ingredients:]{.underline}\n5 cups brown sugar\n1 lb butter\n12 oz honey\n5 oz corn syrup\n[Procedure:]{.underline}\n- Mix all ingredients in a large glass bowl. Microwave until melted and\n  whisk together.",
+    "est_labor": {
+      "Baker": 35
+    },
+    "est_equipment": {
+      "Stand Mixer": 10,
+      "Oven": 20
+    },
+    "est_skills": [
+      "Lamination"
+    ]
   },
   {
     "id": "docx-23",
@@ -574,7 +1136,15 @@
     "typed": true,
     "yield_qty": "20",
     "yield_unit": "muffins",
-    "text": "Blueberry Muffins\n\n[Ingredients:]{.underline}\n24 oz AP flour\n21 oz sugar\n1 tsp salt\n2 Tbsp + 2 tsp baking powder\n2 cups milk\n1 ⅓ cup oil\n4 eggs\nVanilla extract\n2 cups berries\n[Procedure:]{.underline}\n- Mix flour, sugar, salt and baking powder in a bowl\n- Add milk, oil, eggs and vanilla. Fold until just mixed\n- Fold in berries\n- Scoop with green scoop into tan cupcake liners. Top with crumb top &\n  bake about 30 minutes"
+    "text": "Blueberry Muffins\n\n[Ingredients:]{.underline}\n24 oz AP flour\n21 oz sugar\n1 tsp salt\n2 Tbsp + 2 tsp baking powder\n2 cups milk\n1 ⅓ cup oil\n4 eggs\nVanilla extract\n2 cups berries\n[Procedure:]{.underline}\n- Mix flour, sugar, salt and baking powder in a bowl\n- Add milk, oil, eggs and vanilla. Fold until just mixed\n- Fold in berries\n- Scoop with green scoop into tan cupcake liners. Top with crumb top &\n  bake about 30 minutes",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 30
+    },
+    "est_skills": []
   },
   {
     "id": "docx-24",
@@ -585,7 +1155,15 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "Full ½ pan, 24 bars",
-    "text": "Rice Krispies\n\nTo make full pan, x2 this recipe\n[Ingredients:]{.underline}\n20 oz marshmallows\n4 oz butter\n12 cups rice cereal\n[Procedure:]{.underline}\n- Microwave marshmallows and butter 3 minutes 30 seconds\n- Put rice cereal in large bowl\n- Stir marshmallow mix before adding to cereal\n- Stir cereal and marshmallow mix. Dump into pan in thin layer -DO NOT\n  PRESS-\n> You will press down after 2nd batch"
+    "text": "Rice Krispies\n\nTo make full pan, x2 this recipe\n[Ingredients:]{.underline}\n20 oz marshmallows\n4 oz butter\n12 cups rice cereal\n[Procedure:]{.underline}\n- Microwave marshmallows and butter 3 minutes 30 seconds\n- Put rice cereal in large bowl\n- Stir marshmallow mix before adding to cereal\n- Stir cereal and marshmallow mix. Dump into pan in thin layer -DO NOT\n  PRESS-\n> You will press down after 2nd batch",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-25",
@@ -596,7 +1174,15 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Cut Out Cookie Dough\n\n[Ingredients:]{.underline}\n1 lb butter\n2 cups sugar\n1 Tbsp + 1 tsp vanilla\n4 eggs\n25 oz AP Flour\n1 ½ tsp baking powder\n¾ tsp salt\n[Procedure:]{.underline}\n- Creaming method"
+    "text": "Cut Out Cookie Dough\n\n[Ingredients:]{.underline}\n1 lb butter\n2 cups sugar\n1 Tbsp + 1 tsp vanilla\n4 eggs\n25 oz AP Flour\n1 ½ tsp baking powder\n¾ tsp salt\n[Procedure:]{.underline}\n- Creaming method",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-26",
@@ -607,7 +1193,15 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Dog Treats\n\n[Ingredients:]{.underline}\n7 ½ cups whole wheat flour\n6 eggs\n1 ½ cups pumpkin\n6 Tbsp Peanut butter\n1 tsp salt\n1 ½ tsp cinnamon\n1-2 Tbsp water\n[Procedure:]{.underline}\n- Mix in mixer with paddle attachment until dough is formed. Roll out to\n  1\" and cut with heart cookie cutter\n- Score dot in center, bake until firm"
+    "text": "Dog Treats\n\n[Ingredients:]{.underline}\n7 ½ cups whole wheat flour\n6 eggs\n1 ½ cups pumpkin\n6 Tbsp Peanut butter\n1 tsp salt\n1 ½ tsp cinnamon\n1-2 Tbsp water\n[Procedure:]{.underline}\n- Mix in mixer with paddle attachment until dough is formed. Roll out to\n  1\" and cut with heart cookie cutter\n- Score dot in center, bake until firm",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-27",
@@ -618,7 +1212,17 @@
     "typed": true,
     "yield_qty": "24",
     "yield_unit": "cinnamon rolls",
-    "text": "Cinnamon Rolls\n\n[Ingredients:]{.underline}\n24 oz milk\n7.35 oz sugar\n4 eggs\n4 egg yolks\n8 oz butter, melted\n52 oz AP Flour\nSalt\n1 oz yeast\n[Filling:]{.underline}\n1 lb soft butter\n2 cups brown sugar\n6 tbsp cinnamon\n[Procedure:]{.underline}\n- Mix with dough hook 7-8 minutes\n- Roll out dough 40\"x18\"\n- Smear filling over entire dough, roll up & trim edges.\n- Cut into even 24 pieces"
+    "text": "Cinnamon Rolls\n\n[Ingredients:]{.underline}\n24 oz milk\n7.35 oz sugar\n4 eggs\n4 egg yolks\n8 oz butter, melted\n52 oz AP Flour\nSalt\n1 oz yeast\n[Filling:]{.underline}\n1 lb soft butter\n2 cups brown sugar\n6 tbsp cinnamon\n[Procedure:]{.underline}\n- Mix with dough hook 7-8 minutes\n- Roll out dough 40\"x18\"\n- Smear filling over entire dough, roll up & trim edges.\n- Cut into even 24 pieces",
+    "est_labor": {
+      "Baker": 35
+    },
+    "est_equipment": {
+      "Stand Mixer": 10,
+      "Oven": 8
+    },
+    "est_skills": [
+      "Lamination"
+    ]
   },
   {
     "id": "docx-28",
@@ -629,7 +1233,14 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Lemon Curd\n\n[Ingredients:]{.underline}\n2 cups\n1 ⅓ cups lemon juice\n16 egg yolks\n½ tsp salt\n10 oz butter\n[Procedure:]{.underline}\n- Whisk ingredients over a double boiler until thickened."
+    "text": "Lemon Curd\n\n[Ingredients:]{.underline}\n2 cups\n1 ⅓ cups lemon juice\n16 egg yolks\n½ tsp salt\n10 oz butter\n[Procedure:]{.underline}\n- Whisk ingredients over a double boiler until thickened.",
+    "est_labor": {
+      "Prep / Kitchen": 15
+    },
+    "est_equipment": {
+      "Stovetop / Range": 15
+    },
+    "est_skills": []
   },
   {
     "id": "docx-29",
@@ -640,7 +1251,17 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Pate A Choux\n\n[Ingredients:]{.underline}\n4 cups water\n1# butter\nSalt\n20 oz flour\n16 eggs\n[Procedure:]{.underline}\n- Heat water, butter, salt until boiling.\n- Add flour and mix with a wooden spoon.\n- Cook on low heat for 5 minutes, stirring constantly.\n- Mix dough with paddle attachment until cool.\n- Add eggs, a few at a time until combined."
+    "text": "Pate A Choux\n\n[Ingredients:]{.underline}\n4 cups water\n1# butter\nSalt\n20 oz flour\n16 eggs\n[Procedure:]{.underline}\n- Heat water, butter, salt until boiling.\n- Add flour and mix with a wooden spoon.\n- Cook on low heat for 5 minutes, stirring constantly.\n- Mix dough with paddle attachment until cool.\n- Add eggs, a few at a time until combined.",
+    "est_labor": {
+      "Baker": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 10,
+      "Oven": 5
+    },
+    "est_skills": [
+      "Bread / dough"
+    ]
   },
   {
     "id": "docx-30",
@@ -651,7 +1272,15 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "half sheet pan/24 bars",
-    "text": "Lemon Bars\n\n[Ingredients:]{.underline}\n[Crust:]{.underline}\n12 oz butter, pretty soft\n3.5 oz 10x sugar\n12 oz flour\nvanilla\n[Procedure:]{.underline}\n- Mix butter, sugar and flour until combined.\n- Evenly press into half sheet pans with parchment paper.\n[Filling: 1 half sheet pan]{.underline}\n31 oz sugar\n7.5 oz flour\n9 eggs\n1 ½ cups lemon juice\n[Procedure:]{.underline}\n- Combine sugar and flour.\n- Add eggs and mix SLIGHTLY.\n- Add lemon juice and mix just until combined.\n- DO NOT OVERMIX."
+    "text": "Lemon Bars\n\n[Ingredients:]{.underline}\n[Crust:]{.underline}\n12 oz butter, pretty soft\n3.5 oz 10x sugar\n12 oz flour\nvanilla\n[Procedure:]{.underline}\n- Mix butter, sugar and flour until combined.\n- Evenly press into half sheet pans with parchment paper.\n[Filling: 1 half sheet pan]{.underline}\n31 oz sugar\n7.5 oz flour\n9 eggs\n1 ½ cups lemon juice\n[Procedure:]{.underline}\n- Combine sugar and flour.\n- Add eggs and mix SLIGHTLY.\n- Add lemon juice and mix just until combined.\n- DO NOT OVERMIX.",
+    "est_labor": {
+      "Baker": 18
+    },
+    "est_equipment": {
+      "Stand Mixer": 6,
+      "Oven": 20
+    },
+    "est_skills": []
   },
   {
     "id": "docx-31",
@@ -662,7 +1291,14 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "German Topping\n\n[Ingredients:]{.underline}\n2 cups sugar\n2 cups milk\n6 egg yolks\n8 oz butter\n5 cups coconut\n3 cups toasted pecans\nVanilla\n[Procedure:]{.underline}\n- Combine sugar, milk, yolks and butter in a pot and cook until\n  thickened.\n- Pour over coconut, pecans and vanilla and mix until combined."
+    "text": "German Topping\n\n[Ingredients:]{.underline}\n2 cups sugar\n2 cups milk\n6 egg yolks\n8 oz butter\n5 cups coconut\n3 cups toasted pecans\nVanilla\n[Procedure:]{.underline}\n- Combine sugar, milk, yolks and butter in a pot and cook until\n  thickened.\n- Pour over coconut, pecans and vanilla and mix until combined.",
+    "est_labor": {
+      "Prep / Kitchen": 15
+    },
+    "est_equipment": {
+      "Stovetop / Range": 15
+    },
+    "est_skills": []
   },
   {
     "id": "docx-32",
@@ -673,7 +1309,18 @@
     "typed": true,
     "yield_qty": "3",
     "yield_unit": "cakes, 60 oz each",
-    "text": "Gingerbread Bundt\n\n[Ingredients:]{.underline}\n1200 g flour\n1276 g brown sugar\n2 Tbsp cinnamon\n4 tsp nutmeg\n2 tsp clove\n3 Tbsp + 1 tsp ginger\nSalt\n1 tsp baking soda\n4 tsp baking powder\n680 g butter, melted\n8 eggs\n680 g molasses\n900g hot coffee\n[Procedure:]{.underline}\n- Mix flour, brown sugar, cinnamon, nutmeg, clove, ginger, salt, b soda\n  & b powder well\n- Add in butter, eggs, & molasses until just mixed\n- Mix in hot coffee"
+    "text": "Gingerbread Bundt\n\n[Ingredients:]{.underline}\n1200 g flour\n1276 g brown sugar\n2 Tbsp cinnamon\n4 tsp nutmeg\n2 tsp clove\n3 Tbsp + 1 tsp ginger\nSalt\n1 tsp baking soda\n4 tsp baking powder\n680 g butter, melted\n8 eggs\n680 g molasses\n900g hot coffee\n[Procedure:]{.underline}\n- Mix flour, brown sugar, cinnamon, nutmeg, clove, ginger, salt, b soda\n  & b powder well\n- Add in butter, eggs, & molasses until just mixed\n- Mix in hot coffee",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-33",
@@ -684,7 +1331,15 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Biscotti\n\n[Ingredients:]{.underline}\n1# 8oz Butter, soft\n3# sugar\n1 Tbsp cinnamon (or other spices)\n3 Tbsp vanilla ( or other flavoring)\n18 Eggs\n5# 4 oz flour\n3 oz baking powder\n18 oz nuts\n18 oz fruit-dry\n\\*can sub nuts or fruit with chocolate or white chips\n[Mixing Procedure:]{.underline}\n-Cream Butter and sugar until smooth and pale in colour\n-SCRAPE-\n-Add Cinnamon (or other spices) and vanilla (or other flavoring)\n-mix until incorporated\n-Add 3-4 eggs at a time, mix until incorporated. Continue this process\nuntil eggs are gone.\n-SCRAPE-\n-Add Flour and baking powder, mix until it starts to combined\n\\- Add Nuts and Fruit. Mix until incorporated\n[Scaling Procedure]{.underline}\n\\- scale at 2#5oz each you should have a total of 6 \\*this weight could\nvary depending on what nuts and fruit are used\\*\n-once scaled you will form a log 12\" long, 5\"wide, 1\" thick. wrap in\nplastic wrap and refrigerate. \\* needs to chill for 2 hours before\nbaking\n[Baking Procedure]{.underline}\n-full sheet pan with liner, spray lightly. With the pan horizontal,\nplace 2 longs about 6-7 inches apart leaving a 3-4 inch space from the\nedge.\n-place forks or knives in corners to keep the paper from blowing up.\n-in bowel mix half cup sugar and heavy cream to make a paste, spread\nover both logs\n-Bake 35-4o minutes or until the center has puffed up.\n\\- let cool completely\n-slice 1\" and let sit overnight in a closed oven."
+    "text": "Biscotti\n\n[Ingredients:]{.underline}\n1# 8oz Butter, soft\n3# sugar\n1 Tbsp cinnamon (or other spices)\n3 Tbsp vanilla ( or other flavoring)\n18 Eggs\n5# 4 oz flour\n3 oz baking powder\n18 oz nuts\n18 oz fruit-dry\n\\*can sub nuts or fruit with chocolate or white chips\n[Mixing Procedure:]{.underline}\n-Cream Butter and sugar until smooth and pale in colour\n-SCRAPE-\n-Add Cinnamon (or other spices) and vanilla (or other flavoring)\n-mix until incorporated\n-Add 3-4 eggs at a time, mix until incorporated. Continue this process\nuntil eggs are gone.\n-SCRAPE-\n-Add Flour and baking powder, mix until it starts to combined\n\\- Add Nuts and Fruit. Mix until incorporated\n[Scaling Procedure]{.underline}\n\\- scale at 2#5oz each you should have a total of 6 \\*this weight could\nvary depending on what nuts and fruit are used\\*\n-once scaled you will form a log 12\" long, 5\"wide, 1\" thick. wrap in\nplastic wrap and refrigerate. \\* needs to chill for 2 hours before\nbaking\n[Baking Procedure]{.underline}\n-full sheet pan with liner, spray lightly. With the pan horizontal,\nplace 2 longs about 6-7 inches apart leaving a 3-4 inch space from the\nedge.\n-place forks or knives in corners to keep the paper from blowing up.\n-in bowel mix half cup sugar and heavy cream to make a paste, spread\nover both logs\n-Bake 35-4o minutes or until the center has puffed up.\n\\- let cool completely\n-slice 1\" and let sit overnight in a closed oven.",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
   },
   {
     "id": "docx-34",
@@ -695,7 +1350,18 @@
     "typed": true,
     "yield_qty": "",
     "yield_unit": "",
-    "text": "Carrot Cake\n\n[Ingredients:]{.underline}\n36 Eggs\n72 oz Oil\n36 oz Buttermilk\n7lb 2 oz Sugar\n1062 g Brown Sugar\n84 oz Flour\n4T + 1.5 t B.Powder\n3T B. Soda\n3T Salt\n3T Cinnamon\n1T + 1.5t Ginger\n1T + 1.5t Nutmeg\n1.5t Clove\n9lbs Carrots, finely processed\n1, 125g Pineapple\n30 oz Pecans, toasted & chopped\n[Procedure:]{.underline}\n- Mix eggs, oil, buttermilk, sugar, brown sugar\n- Add flour, b power, b soda, salt, cinnamon, ginger, nutmeg, cloves\n- Fold in carrots, pineapple, pecans"
+    "text": "Carrot Cake\n\n[Ingredients:]{.underline}\n36 Eggs\n72 oz Oil\n36 oz Buttermilk\n7lb 2 oz Sugar\n1062 g Brown Sugar\n84 oz Flour\n4T + 1.5 t B.Powder\n3T B. Soda\n3T Salt\n3T Cinnamon\n1T + 1.5t Ginger\n1T + 1.5t Nutmeg\n1.5t Clove\n9lbs Carrots, finely processed\n1, 125g Pineapple\n30 oz Pecans, toasted & chopped\n[Procedure:]{.underline}\n- Mix eggs, oil, buttermilk, sugar, brown sugar\n- Add flour, b power, b soda, salt, cinnamon, ginger, nutmeg, cloves\n- Fold in carrots, pineapple, pecans",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-35",
@@ -706,7 +1372,18 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "bundt (8 slices)",
-    "text": "Pound Cake\n\n[Ingredients:]{.underline}\n1 lb butter, soft\n21 oz sugar\nvanilla\n6 eggs\n16 oz flour\n1 tsp b. powder\n6 oz milk\n[Procedure:]{.underline}\n- Cream butter, sugar, and vanilla\n- Add eggs\n- Alternate flour/b.powder with milk"
+    "text": "Pound Cake\n\n[Ingredients:]{.underline}\n1 lb butter, soft\n21 oz sugar\nvanilla\n6 eggs\n16 oz flour\n1 tsp b. powder\n6 oz milk\n[Procedure:]{.underline}\n- Cream butter, sugar, and vanilla\n- Add eggs\n- Alternate flour/b.powder with milk",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-36",
@@ -717,7 +1394,18 @@
     "typed": true,
     "yield_qty": "3",
     "yield_unit": "cakes, 3# 5oz ea",
-    "text": "Pumpkin Cake\n\n[Ingredients:]{.underline}\n1041 g Sugar\n894 g Flour\n1T Salt\n1T + 1.5t B. Powder\n1T +1.5t B. Soda\n3T Pumpkin Spice\n6 eggs\n681 g Buttermilk\n255 g Milk\n1062 g Pumpkin\n297 g Oil\n(Crumb Top)\n[Procedure:]{.underline}\n- Mix sugar, flour, salt, powder, soda, pumpkin spice in a bowl\n- Add in eggs, buttermilk, milk, pumpkin, oil. Mix well\n- Once in pans, top with 5 oz of crumb top to each cake"
+    "text": "Pumpkin Cake\n\n[Ingredients:]{.underline}\n1041 g Sugar\n894 g Flour\n1T Salt\n1T + 1.5t B. Powder\n1T +1.5t B. Soda\n3T Pumpkin Spice\n6 eggs\n681 g Buttermilk\n255 g Milk\n1062 g Pumpkin\n297 g Oil\n(Crumb Top)\n[Procedure:]{.underline}\n- Mix sugar, flour, salt, powder, soda, pumpkin spice in a bowl\n- Add in eggs, buttermilk, milk, pumpkin, oil. Mix well\n- Once in pans, top with 5 oz of crumb top to each cake",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "docx-37",
@@ -728,7 +1416,15 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "pie (6 slices)",
-    "text": "Chocolate Bourbon Pecan Pie\n\n[Ingredients:]{.underline}\n3 eggs\n7 oz sugar\n1.5 oz melted butter\nVanilla\n1t nutmeg\n4 oz corn syrup\n2 oz bourbon\n7 oz chocolate chips\n6 oz pecans\n[Procedure:]{.underline}\n- Layer chocolate chips & pecans into an egg washed pie shell\n- Mix eggs, sugar, melted butter, vanilla, nutmeg, corn syrup, bourbon\n- Pour mix (17oz) into prepared pie shell\n- Bake 45 minutes"
+    "text": "Chocolate Bourbon Pecan Pie\n\n[Ingredients:]{.underline}\n3 eggs\n7 oz sugar\n1.5 oz melted butter\nVanilla\n1t nutmeg\n4 oz corn syrup\n2 oz bourbon\n7 oz chocolate chips\n6 oz pecans\n[Procedure:]{.underline}\n- Layer chocolate chips & pecans into an egg washed pie shell\n- Mix eggs, sugar, melted butter, vanilla, nutmeg, corn syrup, bourbon\n- Pour mix (17oz) into prepared pie shell\n- Bake 45 minutes",
+    "est_labor": {
+      "Baker": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 45
+    },
+    "est_skills": []
   },
   {
     "id": "docx-38",
@@ -739,7 +1435,14 @@
     "typed": true,
     "yield_qty": "6.25",
     "yield_unit": "lbs",
-    "text": "Blueberry Filling\n\n[Ingredients:]{.underline}\n5lbs frozen wild maine blueberries\n17.5 oz sugar\n4 oz corn starch\n1 oz lemon juice\n[Procedure:]{.underline}\n- Cook on stove until thickened and boiling"
+    "text": "Blueberry Filling\n\n[Ingredients:]{.underline}\n5lbs frozen wild maine blueberries\n17.5 oz sugar\n4 oz corn starch\n1 oz lemon juice\n[Procedure:]{.underline}\n- Cook on stove until thickened and boiling",
+    "est_labor": {
+      "Prep / Kitchen": 15
+    },
+    "est_equipment": {
+      "Stovetop / Range": 15
+    },
+    "est_skills": []
   },
   {
     "id": "pos-coffee-12oz",
@@ -750,7 +1453,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Coffee 12oz\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). Drip coffee. ]"
+    "text": "Coffee 12oz\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). Drip coffee. ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-latte",
@@ -761,7 +1471,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). Covers all flavored lattes (vanilla, mocha, caramel, brown sugar, honey lavender, etc.) — same labor; the flavor is its own syrup/cold-foam recipe. ]"
+    "text": "Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). Covers all flavored lattes (vanilla, mocha, caramel, brown sugar, honey lavender, etc.) — same labor; the flavor is its own syrup/cold-foam recipe. ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-cappuccino",
@@ -772,7 +1489,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Cappuccino\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Cappuccino\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-americano",
@@ -783,7 +1507,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Americano\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Americano\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-breve",
@@ -794,7 +1525,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Breve\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Breve\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-chai-latte",
@@ -805,7 +1543,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Chai Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Chai Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-matcha-latte",
@@ -816,7 +1561,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Matcha Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Matcha Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-hot-chocolate",
@@ -827,7 +1579,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Hot Chocolate\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Hot Chocolate\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-cafe-au-lait",
@@ -838,7 +1597,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Cafe Au Lait\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Cafe Au Lait\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-london-fog",
@@ -849,7 +1615,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "London Fog\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "London Fog\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-iced-coffee",
@@ -860,7 +1633,14 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "drink",
-    "text": "Iced Coffee\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+    "text": "Iced Coffee\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]",
+    "est_labor": {
+      "Barista": 3
+    },
+    "est_equipment": {
+      "Espresso Machine": 2
+    },
+    "est_skills": []
   },
   {
     "id": "pos-mini-can",
@@ -871,7 +1651,10 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "unit",
-    "text": "Mini Can\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+    "text": "Mini Can\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]",
+    "est_labor": {},
+    "est_equipment": {},
+    "est_skills": []
   },
   {
     "id": "pos-can-drinks",
@@ -882,7 +1665,10 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "unit",
-    "text": "Can Drinks\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+    "text": "Can Drinks\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]",
+    "est_labor": {},
+    "est_equipment": {},
+    "est_skills": []
   },
   {
     "id": "pos-bottled-water",
@@ -893,7 +1679,10 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "unit",
-    "text": "Bottled Water\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+    "text": "Bottled Water\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]",
+    "est_labor": {},
+    "est_equipment": {},
+    "est_skills": []
   },
   {
     "id": "pos-comfort-colors-t-shirt",
@@ -904,7 +1693,10 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "unit",
-    "text": "Comfort Colors T-shirt\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+    "text": "Comfort Colors T-shirt\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]",
+    "est_labor": {},
+    "est_equipment": {},
+    "est_skills": []
   },
   {
     "id": "pos-hat",
@@ -915,7 +1707,10 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "unit",
-    "text": "Hat\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+    "text": "Hat\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]",
+    "est_labor": {},
+    "est_equipment": {},
+    "est_skills": []
   },
   {
     "id": "pos-tumbler-16oz",
@@ -926,6 +1721,9 @@
     "typed": true,
     "yield_qty": "1",
     "yield_unit": "unit",
-    "text": "Tumbler 16oz\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+    "text": "Tumbler 16oz\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]",
+    "est_labor": {},
+    "est_equipment": {},
+    "est_skills": []
   }
 ]
