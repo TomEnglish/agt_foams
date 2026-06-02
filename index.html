@@ -16,6 +16,7 @@ header h1{font-size:16px;margin:0;font-weight:650}
 .navbar select{font:inherit;padding:6px 8px;border:1px solid var(--line);border-radius:7px;flex:1 1 240px;max-width:60vw}
 .navbar .pos{font-size:13px;color:#5a6573}
 main{flex:1;display:grid;grid-template-columns:1fr 1fr;min-height:0}
+main.solo{grid-template-columns:1fr}main.solo .imgpane{display:none}
 .imgpane{display:flex;flex-direction:column;min-width:0;border-right:1px solid var(--line)}
 .tools{display:flex;flex-wrap:wrap;gap:8px 12px;align-items:center;padding:8px 12px;background:#f6f8fa;border-bottom:1px solid var(--line);font-size:13px}
 .tools button{border:1px solid var(--line);background:#fff;border-radius:6px;padding:4px 9px;cursor:pointer}
@@ -171,6 +172,7 @@ function refreshMeta(){
 function render(n){
   if(n<0||n>=S.length)return; i=n; const s=S[i];
   const typed = s.typed || !s.page;
+  document.querySelector('main').classList.toggle('solo', typed);
   $('#imgtools').style.display = typed ? 'none' : 'flex';
   $('#img').hidden = typed; $('#noimg').hidden = !typed;
   if(!typed){ $('#img').src=s.page; $('#full').href=s.page; }

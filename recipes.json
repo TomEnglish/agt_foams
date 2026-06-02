@@ -740,5 +740,192 @@
     "yield_qty": "6.25",
     "yield_unit": "lbs",
     "text": "Blueberry Filling\n\n[Ingredients:]{.underline}\n5lbs frozen wild maine blueberries\n17.5 oz sugar\n4 oz corn starch\n1 oz lemon juice\n[Procedure:]{.underline}\n- Cook on stove until thickened and boiling"
+  },
+  {
+    "id": "pos-coffee-12oz",
+    "name": "Coffee 12oz",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Coffee 12oz\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). Drip coffee. ]"
+  },
+  {
+    "id": "pos-latte",
+    "name": "Latte",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). Covers all flavored lattes (vanilla, mocha, caramel, brown sugar, honey lavender, etc.) — same labor; the flavor is its own syrup/cold-foam recipe. ]"
+  },
+  {
+    "id": "pos-cappuccino",
+    "name": "Cappuccino",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Cappuccino\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-americano",
+    "name": "Americano",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Americano\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-breve",
+    "name": "Breve",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Breve\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-chai-latte",
+    "name": "Chai Latte",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Chai Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-matcha-latte",
+    "name": "Matcha Latte",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Matcha Latte\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-hot-chocolate",
+    "name": "Hot Chocolate",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Hot Chocolate\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-cafe-au-lait",
+    "name": "Cafe Au Lait",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Cafe Au Lait\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-london-fog",
+    "name": "London Fog",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "London Fog\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-iced-coffee",
+    "name": "Iced Coffee",
+    "page_label": "Made-to-order drinks",
+    "pos": "per drink",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "drink",
+    "text": "Iced Coffee\n\n[Made-to-order — enter the barista labor (minutes per drink) and equipment used (espresso machine, etc.). ]"
+  },
+  {
+    "id": "pos-mini-can",
+    "name": "Mini Can",
+    "page_label": "Retail / resale",
+    "pos": "resale",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "unit",
+    "text": "Mini Can\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+  },
+  {
+    "id": "pos-can-drinks",
+    "name": "Can Drinks",
+    "page_label": "Retail / resale",
+    "pos": "resale",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "unit",
+    "text": "Can Drinks\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+  },
+  {
+    "id": "pos-bottled-water",
+    "name": "Bottled Water",
+    "page_label": "Retail / resale",
+    "pos": "resale",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "unit",
+    "text": "Bottled Water\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+  },
+  {
+    "id": "pos-comfort-colors-t-shirt",
+    "name": "Comfort Colors T-shirt",
+    "page_label": "Retail / resale",
+    "pos": "resale",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "unit",
+    "text": "Comfort Colors T-shirt\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+  },
+  {
+    "id": "pos-hat",
+    "name": "Hat",
+    "page_label": "Retail / resale",
+    "pos": "resale",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "unit",
+    "text": "Hat\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
+  },
+  {
+    "id": "pos-tumbler-16oz",
+    "name": "Tumbler 16oz",
+    "page_label": "Retail / resale",
+    "pos": "resale",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "1",
+    "yield_unit": "unit",
+    "text": "Tumbler 16oz\n\n[Resale item — you buy and resell it. No labor to make; jot your wholesale cost per unit in Notes so we can compute margin.]"
   }
 ]
