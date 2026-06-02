@@ -68,13 +68,15 @@ textarea{width:100%;font:14px/1.6 ui-monospace,Menlo,Consolas,monospace;resize:v
 </div>
 <main>
  <div class="imgpane">
-  <div class="tools">
+  <div class="tools" id="imgtools">
    <button id="rotate">⟳ Rotate page</button>
    <label>zoom <input type="range" id="zoom" min="1" max="5" step="0.1" value="1"></label>
    <a id="full" target="_blank" style="margin-left:auto;color:var(--blue)">open photo ↗</a>
   </div>
   <div class="hint" id="hint"></div>
-  <div class="imgbox" id="vp"><img id="img" alt="recipe photo"></div>
+  <div class="imgbox" id="vp"><img id="img" alt="recipe photo">
+   <div id="noimg" hidden style="color:#9fb4c6;padding:40px 20px;text-align:center;font-size:15px">📄 Typed recipe — no photo.<br>Confirm the text and fill in the costs.</div>
+  </div>
  </div>
  <div class="editpane">
   <h2 class="rname" id="rname"></h2>
@@ -145,7 +147,8 @@ async function init(){
   LISTS=JSON.parse(localStorage.getItem(LKEY)||"null")||{roles:DEF_ROLES,skills:DEF_SKILLS,equipment:DEF_EQUIP};
   S=R.map(r=>{const s=saved.find(x=>x.id===r.id)||{}; const c=Object.assign(blankCosts(),s.costs||{});
     c.labor=c.labor||{}; c.skills=c.skills||[]; c.equipment=c.equipment||{};
-    return {id:r.id,name:r.name,page:r.page,page_label:r.page_label,pos:r.pos,orig:r.text,
+    if(!c.yield_qty && r.yield_qty){ c.yield_qty=r.yield_qty; c.yield_unit=r.yield_unit||''; }
+    return {id:r.id,name:r.name,page:r.page,page_label:r.page_label,pos:r.pos,typed:!!r.typed,orig:r.text,
       text:s.text!=null?s.text:r.text, status:s.status||'pending', notes:s.notes||'', costs:c};});
   R.forEach(r=>{if(rotP[r.page]===undefined && r.rotation) rotP[r.page]=r.rotation;});
   buildJump(); render(0);
@@ -167,8 +170,13 @@ function refreshMeta(){
 }
 function render(n){
   if(n<0||n>=S.length)return; i=n; const s=S[i];
-  $('#img').src=s.page; $('#full').href=s.page;
-  $('#hint').innerHTML=`📍 <b>${s.page_label}</b> · ${s.pos} — find <b>${esc(firstLine(s.text))}</b> on the photo (zoom / rotate to locate)`;
+  const typed = s.typed || !s.page;
+  $('#imgtools').style.display = typed ? 'none' : 'flex';
+  $('#img').hidden = typed; $('#noimg').hidden = !typed;
+  if(!typed){ $('#img').src=s.page; $('#full').href=s.page; }
+  $('#hint').innerHTML = typed
+    ? `📄 <b>${esc(s.page_label)}</b> — typed recipe (no photo). Confirm the text and fill in the costs below.`
+    : `📍 <b>${s.page_label}</b> · ${s.pos} — find <b>${esc(firstLine(s.text))}</b> on the photo (zoom / rotate to locate)`;
   $('#rname').textContent=firstLine(s.text); $('#plabel').textContent=s.page_label+' · '+s.pos;
   $('#text').value=s.text; $('#notes').value=s.notes;
   $('#approve').classList.toggle('on',s.status==='approved');
