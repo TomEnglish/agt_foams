@@ -139,7 +139,8 @@ const deb=()=>{clearTimeout(t);t=setTimeout(()=>{save();refreshMeta();},400);};
 function blankCosts(){return {yield_qty:'',yield_unit:'',labor:{},skills:[],equipment:{}};}
 async function init(){
   R=await (await fetch('recipes.json')).json();
-  const saved=JSON.parse(localStorage.getItem(KEY)||"[]");
+  let saved=JSON.parse(localStorage.getItem(KEY)||"[]");
+  if(!saved.length){const v2=JSON.parse(localStorage.getItem("agt-recipe-review-v2")||"[]");if(v2.length)saved=v2;}
   rotP=JSON.parse(localStorage.getItem(RKEY)||"{}");
   LISTS=JSON.parse(localStorage.getItem(LKEY)||"null")||{roles:DEF_ROLES,skills:DEF_SKILLS,equipment:DEF_EQUIP};
   S=R.map(r=>{const s=saved.find(x=>x.id===r.id)||{}; const c=Object.assign(blankCosts(),s.costs||{});
