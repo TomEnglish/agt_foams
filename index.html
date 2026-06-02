@@ -181,12 +181,12 @@ function render(n){
   $('#imgtools').style.display = typed ? 'none' : 'flex';
   $('#img').hidden = typed; $('#noimg').hidden = !typed;
   $('#noimg').innerHTML = needs
-    ? '✍️ New recipe — no photo.<br>Type the ingredients &amp; method, then fill in the costs.'
+    ? '✨ Estimated recipe — no photo.<br>Confirm or correct it, then check the costs.'
     : '📄 Typed recipe — no photo.<br>Confirm the text and fill in the costs.';
   if(!typed){ $('#img').src=s.page; $('#full').href=s.page; }
-  $('#textlabel').textContent = needs ? 'Type the full recipe — ingredients & method' : "Recipe text — fix anything that’s wrong";
+  $('#textlabel').textContent = needs ? 'Recipe — our best estimate; confirm or correct it' : "Recipe text — fix anything that’s wrong";
   $('#hint').innerHTML = needs
-    ? `✍️ <b>New recipe — no recipe on file.</b> Type the ingredients &amp; method below, then fill in the costs.`
+    ? `✨ <b>Estimated recipe</b> — we guessed this from the item name (none was on file). Please confirm or correct the ingredients &amp; method, then check the costs.`
     : typed
     ? `📄 <b>${esc(s.page_label)}</b> — typed recipe (no photo). Confirm the text and fill in the costs below.`
     : `📍 <b>${s.page_label}</b> · ${s.pos} — find <b>${esc(firstLine(s.text))}</b> on the photo (zoom / rotate to locate)`;

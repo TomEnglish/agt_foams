@@ -1729,20 +1729,20 @@
   {
     "id": "need-mini-cupcake",
     "name": "Mini Cupcake",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Mini Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "60",
+    "yield_unit": "mini cupcakes",
+    "text": "Mini Cupcake\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nMini cupcakes — starts from one of our cake batters (Vanilla Cake or Chocolate Cake).\n- Cake batter: 1 batch\n- Buttercream: ~2 lb\n\nMethod: Line mini tins, fill ~2/3 (~1 oz each). Bake 350F ~12-14 min. Cool, pipe ~0.5 oz buttercream, decorate.\nYield: ~60 mini cupcakes per cake batch.",
     "est_labor": {
-      "Baker": 20,
+      "Baker": 15,
       "Decorator": 30
     },
     "est_equipment": {
       "Stand Mixer": 12,
-      "Oven": 32
+      "Oven": 14
     },
     "est_skills": [
       "Piping / decorating"
@@ -1751,20 +1751,20 @@
   {
     "id": "need-cupcake",
     "name": "Cupcake",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "24",
+    "yield_unit": "cupcakes",
+    "text": "Cupcake\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nStandard cupcakes — starts from one of our cake batters (Vanilla Cake or Chocolate Cake).\n- Cake batter: 1 batch (see that recipe)\n- Buttercream: ~2 lb for piping\n\nMethod: Line standard tins, fill ~2/3 (~3 oz batter each). Bake 350F ~18-20 min. Cool, pipe ~1 oz buttercream each, decorate.\nYield: ~24 cupcakes per cake batch.",
     "est_labor": {
-      "Baker": 20,
-      "Decorator": 30
+      "Baker": 15,
+      "Decorator": 25
     },
     "est_equipment": {
       "Stand Mixer": 12,
-      "Oven": 32
+      "Oven": 19
     },
     "est_skills": [
       "Piping / decorating"
@@ -1773,109 +1773,116 @@
   {
     "id": "need-scone",
     "name": "Scone",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Scone\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "12",
+    "yield_unit": "scones",
+    "text": "Scone\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nClassic cream scone:\n- 4 cups (500g) all-purpose flour\n- 1/2 cup (100g) sugar\n- 2 Tbsp baking powder\n- 1 tsp salt\n- 1 cup (2 sticks) cold butter, cubed\n- 1 1/4 cups heavy cream (+ extra to brush)\n- 2 eggs, 1 Tbsp vanilla\n- ~1 1/2 cups add-ins (berries, chocolate, etc.)\n\nMethod: Cut cold butter into dry until pea-sized. Add cream + eggs + vanilla; mix just to combine; fold in add-ins. Pat to ~1\", cut wedges, brush cream, sugar top. Bake 400F ~20-24 min.\nYield: ~12 scones.",
     "est_labor": {
-      "Baker": 20
+      "Baker": 25
     },
     "est_equipment": {
       "Stand Mixer": 8,
-      "Oven": 18
+      "Oven": 22
     },
     "est_skills": []
   },
   {
     "id": "need-galette",
     "name": "Galette",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Galette\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "6",
+    "yield_unit": "galettes",
+    "text": "Galette\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nRustic free-form fruit galette (single crust):\n- Pie dough: 1 batch (2 1/2 cups flour, 1 cup cold butter, ~1/2 cup ice water, 1 tsp salt, 1 Tbsp sugar)\n- Filling: ~4 cups fruit + 1/3 cup sugar + 2 Tbsp cornstarch + lemon  (or use our Apple Filling / Blueberry Filling)\n- Egg wash + coarse sugar\n\nMethod: Chill dough; roll rounds, mound filling leaving a 2\" border, fold edges over. Egg wash, sugar. Bake 400F ~35-40 min.\nYield: ~6 individual galettes (or 1 large).",
     "est_labor": {
-      "Baker": 20
+      "Baker": 30
     },
     "est_equipment": {
-      "Oven": 20
+      "Stand Mixer": 6,
+      "Oven": 38,
+      "Fridge / Freezer": 30
     },
     "est_skills": []
   },
   {
     "id": "need-pop-tart",
     "name": "Pop Tart",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Pop Tart\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "12",
+    "yield_unit": "pop tarts",
+    "text": "Pop Tart\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nHand pie / pop tart:\n- Pie dough: 1 batch, rolled and cut into ~3x4\" rectangles\n- Filling: ~1 Tbsp jam/fruit each  (or our Blueberry / Apple Filling)\n- Egg wash; glaze = 1 cup powdered sugar + milk; sprinkles\n\nMethod: Fill, top, crimp, egg wash, vent. Bake 375F ~22-25 min. Cool, glaze, decorate.\nYield: ~12 pop tarts.",
     "est_labor": {
-      "Baker": 30
+      "Baker": 35,
+      "Decorator": 8
     },
     "est_equipment": {
-      "Stand Mixer": 8,
-      "Oven": 30
+      "Stand Mixer": 6,
+      "Oven": 24
     },
     "est_skills": []
   },
   {
     "id": "need-eclair-puff",
     "name": "Eclair Puff",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Eclair Puff\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "18",
+    "yield_unit": "eclairs",
+    "text": "Eclair Puff\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nEclair / cream puff — starts from our Pate A Choux recipe.\n- Pate a Choux: 1 batch\n- Pastry cream: ~1 qt (milk, sugar, egg yolks, cornstarch, vanilla)  — or whipped cream\n- Chocolate glaze: chocolate + cream\n\nMethod: Pipe choux (eclair logs or puffs), bake 400F then 350F ~30 min until dry. Cool, fill with pastry cream, dip tops in chocolate glaze.\nYield: ~18 eclairs/puffs.",
     "est_labor": {
-      "Baker": 20
+      "Baker": 30,
+      "Decorator": 10
     },
     "est_equipment": {
-      "Oven": 20
-    },
-    "est_skills": []
-  },
-  {
-    "id": "need-mini-cheesecake",
-    "name": "Mini Cheesecake",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Mini Cheesecake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
-    "est_labor": {
-      "Baker": 20,
-      "Decorator": 30
-    },
-    "est_equipment": {
-      "Stand Mixer": 12,
-      "Oven": 32
+      "Stovetop / Range": 14,
+      "Oven": 30,
+      "Stand Mixer": 8,
+      "Fridge / Freezer": 20
     },
     "est_skills": [
       "Piping / decorating"
     ]
   },
   {
-    "id": "need-donut-chocolate-glazed",
-    "name": "Donut Chocolate Glazed",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "id": "need-mini-cheesecake",
+    "name": "Mini Cheesecake",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Donut Chocolate Glazed\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "24",
+    "yield_unit": "mini cheesecakes",
+    "text": "Mini Cheesecake\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nMini cheesecakes (muffin-tin):\n- Crust: 1 1/2 cups graham crumbs + 5 Tbsp melted butter + 2 Tbsp sugar\n- Filling: 24 oz cream cheese, 3/4 cup sugar, 3 eggs, 1 tsp vanilla, 1/2 cup sour cream\n\nMethod: Press crust into lined tins, fill. Bake 325F ~18-20 min. Chill 3+ hrs. Top as desired.\nYield: ~24 mini cheesecakes.",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 10,
+      "Oven": 20,
+      "Fridge / Freezer": 180
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-donut-chocolate-glazed",
+    "name": "Donut Chocolate Glazed",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "24",
+    "yield_unit": "donuts",
+    "text": "Donut Chocolate Glazed\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nChocolate-glazed donut — starts from our Donut Dough recipe.\n- Donut Dough: 1 batch\n- Chocolate glaze: powdered sugar + cocoa + milk + butter (or melted chocolate)\n\nMethod: Cut, proof, fry or bake the donuts. Cool slightly, dip tops in chocolate glaze.\nYield: per Donut Dough batch (~24 - confirm count).",
     "est_labor": {
       "Baker": 35
     },
@@ -1890,20 +1897,20 @@
   {
     "id": "need-gf-cupcake",
     "name": "GF Cupcake",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "GF Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "24",
+    "yield_unit": "cupcakes",
+    "text": "GF Cupcake\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nGluten-free cupcakes — our cupcake formula with a 1:1 GF flour blend in place of AP flour (add 1/2 tsp xanthan gum if the blend has none).\n- Buttercream ~2 lb\n\nMethod: As standard cupcakes. Bake 350F ~18-20 min. Cool, frost.\nYield: ~24 GF cupcakes.",
     "est_labor": {
-      "Baker": 20,
-      "Decorator": 30
+      "Baker": 15,
+      "Decorator": 25
     },
     "est_equipment": {
       "Stand Mixer": 12,
-      "Oven": 32
+      "Oven": 19
     },
     "est_skills": [
       "Piping / decorating"
@@ -1912,112 +1919,33 @@
   {
     "id": "need-german-chocolate-brownie",
     "name": "German Chocolate Brownie",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "German Chocolate Brownie\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "24",
+    "yield_unit": "bars",
+    "text": "German Chocolate Brownie\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nGerman chocolate brownie — starts from our GF Brownies (or a standard brownie) base topped with our German Topping.\n- Brownie batter: 1 batch (half-sheet)\n- German Topping (coconut-pecan): 1 batch (our recipe)\n\nMethod: Bake brownie base 350F ~25 min. Cool. Spread German Topping. Cut into bars.\nYield: ~24 bars.",
     "est_labor": {
       "Baker": 18
     },
     "est_equipment": {
       "Stand Mixer": 6,
-      "Oven": 20
+      "Oven": 25,
+      "Stovetop / Range": 12
     },
     "est_skills": []
   },
   {
     "id": "need-pro-gf-muff",
     "name": "Pro Gf Muff",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Pro Gf Muff\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
-    "est_labor": {
-      "Baker": 20
-    },
-    "est_equipment": {
-      "Oven": 20
-    },
-    "est_skills": []
-  },
-  {
-    "id": "need-pineapple-upsidedown-slice",
-    "name": "Pineapple Upsidedown Slice",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Pineapple Upsidedown Slice\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
-    "est_labor": {
-      "Baker": 20
-    },
-    "est_equipment": {
-      "Oven": 20
-    },
-    "est_skills": []
-  },
-  {
-    "id": "need-gf-mini-cupcake",
-    "name": "GF Mini Cupcake",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "GF Mini Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
-    "est_labor": {
-      "Baker": 20,
-      "Decorator": 30
-    },
-    "est_equipment": {
-      "Stand Mixer": 12,
-      "Oven": 32
-    },
-    "est_skills": [
-      "Piping / decorating"
-    ]
-  },
-  {
-    "id": "need-mini-bundt",
-    "name": "Mini Bundt",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Mini Bundt\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
-    "est_labor": {
-      "Baker": 20,
-      "Decorator": 30
-    },
-    "est_equipment": {
-      "Stand Mixer": 12,
-      "Oven": 32
-    },
-    "est_skills": [
-      "Piping / decorating"
-    ]
-  },
-  {
-    "id": "need-g-g-scone",
-    "name": "G&G Scone",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "G&G Scone\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "12",
+    "yield_unit": "muffins",
+    "text": "Pro Gf Muff\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nGluten-free muffin — starts from our muffin base (Blueberry/Zucchini) with a 1:1 GF flour blend in place of AP flour. Confirm flavor.\n\nMethod: Fill lined tins ~3/4. Bake 375F ~18-20 min.\nYield: ~12 GF muffins.",
     "est_labor": {
       "Baker": 20
     },
@@ -2028,90 +1956,182 @@
     "est_skills": []
   },
   {
-    "id": "need-gin-tree-cookie",
-    "name": "Gin. Tree Cookie",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "id": "need-pineapple-upsidedown-slice",
+    "name": "Pineapple Upsidedown Slice",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Gin. Tree Cookie\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
-    "est_labor": {
-      "Baker": 25
-    },
-    "est_equipment": {
-      "Stand Mixer": 8,
-      "Oven": 12
-    },
-    "est_skills": []
-  },
-  {
-    "id": "need-heart-sugar-cookie",
-    "name": "Heart Sugar Cookie",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Heart Sugar Cookie\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
-    "est_labor": {
-      "Baker": 25
-    },
-    "est_equipment": {
-      "Stand Mixer": 8,
-      "Oven": 12
-    },
-    "est_skills": []
-  },
-  {
-    "id": "need-torte-small",
-    "name": "Torte Small",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Torte Small\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "12",
+    "yield_unit": "slices",
+    "text": "Pineapple Upsidedown Slice\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nPineapple upside-down cake (sliced):\n- Topping: 1/2 cup butter + 1 cup brown sugar in the pan; pineapple rings + cherries\n- Cake batter: 1 batch yellow/vanilla (or our Vanilla Cake)\n\nMethod: Melt butter + sugar in pan, arrange pineapple/cherries, pour batter over. Bake 350F ~32-38 min. Invert, cool, slice.\nYield: ~12 slices.",
     "est_labor": {
       "Baker": 20
     },
     "est_equipment": {
-      "Oven": 20
+      "Stand Mixer": 10,
+      "Stovetop / Range": 5,
+      "Oven": 35
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-gf-mini-cupcake",
+    "name": "GF Mini Cupcake",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "60",
+    "yield_unit": "mini cupcakes",
+    "text": "GF Mini Cupcake\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nGF mini cupcakes — GF cupcake batter (1:1 blend) in mini liners.\n\nMethod: Fill mini tins ~2/3. Bake 350F ~12-14 min. Pipe buttercream.\nYield: ~60 GF mini cupcakes.",
+    "est_labor": {
+      "Baker": 15,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 14
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-mini-bundt",
+    "name": "Mini Bundt",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "12",
+    "yield_unit": "mini bundts",
+    "text": "Mini Bundt\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nMini bundt cakes — starts from a cake batter (e.g. our Pound Cake, Pumpkin Cake, or Gingerbread Bundt - confirm which).\n- Cake batter: 1 batch\n- Glaze: powdered sugar + milk/butter\n\nMethod: Grease mini bundt pan, fill ~3/4. Bake 350F ~22-28 min. Cool, glaze.\nYield: ~12 mini bundts.",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 25
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-g-g-scone",
+    "name": "G&G Scone",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "12",
+    "yield_unit": "scones",
+    "text": "G&G Scone\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\n\"G&G\" appears to be a named scone variant. Starts from our classic cream scone base (see Scone); confirm the specific add-ins/flavor for G&G.\nYield: ~12 scones.",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 22
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-gin-tree-cookie",
+    "name": "Gin. Tree Cookie",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "24",
+    "yield_unit": "cookies",
+    "text": "Gin. Tree Cookie\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nGingerbread tree cut-out cookie — starts from our Cut Out Cookie Dough (gingerbread version: add molasses + ginger/cinnamon/clove) or our Ginger Molasses dough, rolled.\n- Royal icing for decorating\n\nMethod: Roll, cut tree shapes, bake 350F ~10-12 min. Cool, ice.\nYield: ~24 cookies.",
+    "est_labor": {
+      "Baker": 25,
+      "Decorator": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-heart-sugar-cookie",
+    "name": "Heart Sugar Cookie",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "24",
+    "yield_unit": "cookies",
+    "text": "Heart Sugar Cookie\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nHeart sugar cookie — starts from our Cut Out Cookie Dough.\n- Royal icing or buttercream\n\nMethod: Roll, cut heart shapes, bake 350F ~9-11 min. Cool, ice.\nYield: ~24 cookies.",
+    "est_labor": {
+      "Baker": 25,
+      "Decorator": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 10
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-torte-small",
+    "name": "Torte Small",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "4",
+    "yield_unit": "small tortes",
+    "text": "Torte Small\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nAssumed flourless chocolate torte (confirm which torte):\n- 8 oz chocolate + 1 cup butter, melted\n- 1 1/4 cups sugar, 5 eggs, 1 cup cocoa, pinch salt\n\nMethod: Melt chocolate + butter; whisk in sugar, then eggs, then cocoa. Bake in small pans 350F ~25-30 min. Cool; dust or ganache.\nYield: ~4 small tortes (confirm size).",
+    "est_labor": {
+      "Baker": 25,
+      "Decorator": 15
+    },
+    "est_equipment": {
+      "Stand Mixer": 10,
+      "Stovetop / Range": 5,
+      "Oven": 30
     },
     "est_skills": []
   },
   {
     "id": "need-sugar-cookie-bar",
     "name": "Sugar Cookie Bar",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Sugar Cookie Bar\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "24",
+    "yield_unit": "bars",
+    "text": "Sugar Cookie Bar\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nSugar cookie bars (sheet-pan):\n- Sugar cookie dough: 1 batch (our Cut Out Cookie Dough or a soft sugar cookie), pressed into a greased half-sheet\n- Buttercream for topping\n\nMethod: Press dough into the pan, bake 375F ~15-18 min. Cool, frost, cut into bars.\nYield: ~24 bars.",
     "est_labor": {
-      "Baker": 25
+      "Baker": 18,
+      "Decorator": 15
     },
     "est_equipment": {
       "Stand Mixer": 8,
-      "Oven": 12
+      "Oven": 18
     },
-    "est_skills": []
+    "est_skills": [
+      "Piping / decorating"
+    ]
   },
   {
     "id": "need-al-s-muffins",
     "name": "Al's Muffins",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Al's Muffins\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "12",
+    "yield_unit": "muffins",
+    "text": "Al's Muffins\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\n\"Al's\" muffins — starts from our muffin base (see Blueberry Muffins / Zucchini Muffins). Confirm the specific flavor/add-ins for Al's.\n\nMethod: Fill lined tins ~3/4. Bake 375F ~18-20 min.\nYield: ~12 muffins.",
     "est_labor": {
       "Baker": 20
     },
@@ -2124,19 +2144,19 @@
   {
     "id": "need-al-s-scone",
     "name": "Al's Scone",
-    "page_label": "Needs a recipe (no recipe on file yet)",
-    "pos": "new recipe",
+    "page_label": "Estimated recipes — please confirm",
+    "pos": "estimated from item name",
     "rotation": 0,
     "typed": true,
-    "yield_qty": "",
-    "yield_unit": "",
-    "text": "Al's Scone\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "yield_qty": "12",
+    "yield_unit": "scones",
+    "text": "Al's Scone\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\n\"Al's\" appears to be a named scone variant. Starts from our classic cream scone base (see Scone); confirm the specific add-ins/flavor for Al's.\nYield: ~12 scones.",
     "est_labor": {
-      "Baker": 20
+      "Baker": 25
     },
     "est_equipment": {
       "Stand Mixer": 8,
-      "Oven": 18
+      "Oven": 22
     },
     "est_skills": []
   }
