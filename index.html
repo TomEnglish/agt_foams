@@ -82,7 +82,7 @@ textarea{width:100%;font:14px/1.6 ui-monospace,Menlo,Consolas,monospace;resize:v
  <div class="editpane">
   <h2 class="rname" id="rname"></h2>
   <div class="plabel" id="plabel"></div>
-  <div><label>Recipe text — fix anything that's wrong</label>
+  <div><label id="textlabel">Recipe text — fix anything that's wrong</label>
    <textarea id="text" spellcheck="false"></textarea></div>
   <div class="statusrow">
    <button class="app" id="approve">✓ Approve</button>
@@ -176,11 +176,18 @@ function refreshMeta(){
 function render(n){
   if(n<0||n>=S.length)return; i=n; const s=S[i];
   const typed = s.typed || !s.page;
+  const needs = (s.id||'').startsWith('need-');
   document.querySelector('main').classList.toggle('solo', typed);
   $('#imgtools').style.display = typed ? 'none' : 'flex';
   $('#img').hidden = typed; $('#noimg').hidden = !typed;
+  $('#noimg').innerHTML = needs
+    ? '✍️ New recipe — no photo.<br>Type the ingredients &amp; method, then fill in the costs.'
+    : '📄 Typed recipe — no photo.<br>Confirm the text and fill in the costs.';
   if(!typed){ $('#img').src=s.page; $('#full').href=s.page; }
-  $('#hint').innerHTML = typed
+  $('#textlabel').textContent = needs ? 'Type the full recipe — ingredients & method' : "Recipe text — fix anything that’s wrong";
+  $('#hint').innerHTML = needs
+    ? `✍️ <b>New recipe — no recipe on file.</b> Type the ingredients &amp; method below, then fill in the costs.`
+    : typed
     ? `📄 <b>${esc(s.page_label)}</b> — typed recipe (no photo). Confirm the text and fill in the costs below.`
     : `📍 <b>${s.page_label}</b> · ${s.pos} — find <b>${esc(firstLine(s.text))}</b> on the photo (zoom / rotate to locate)`;
   $('#rname').textContent=firstLine(s.text); $('#plabel').textContent=s.page_label+' · '+s.pos;

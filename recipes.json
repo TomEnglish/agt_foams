@@ -1725,5 +1725,419 @@
     "est_labor": {},
     "est_equipment": {},
     "est_skills": []
+  },
+  {
+    "id": "need-mini-cupcake",
+    "name": "Mini Cupcake",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Mini Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-cupcake",
+    "name": "Cupcake",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-scone",
+    "name": "Scone",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Scone\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 18
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-galette",
+    "name": "Galette",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Galette\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Oven": 20
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-pop-tart",
+    "name": "Pop Tart",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Pop Tart\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 30
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-eclair-puff",
+    "name": "Eclair Puff",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Eclair Puff\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Oven": 20
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-mini-cheesecake",
+    "name": "Mini Cheesecake",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Mini Cheesecake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-donut-chocolate-glazed",
+    "name": "Donut Chocolate Glazed",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Donut Chocolate Glazed\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 35
+    },
+    "est_equipment": {
+      "Stand Mixer": 10,
+      "Oven": 15
+    },
+    "est_skills": [
+      "Bread / dough"
+    ]
+  },
+  {
+    "id": "need-gf-cupcake",
+    "name": "GF Cupcake",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "GF Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-german-chocolate-brownie",
+    "name": "German Chocolate Brownie",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "German Chocolate Brownie\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 18
+    },
+    "est_equipment": {
+      "Stand Mixer": 6,
+      "Oven": 20
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-pro-gf-muff",
+    "name": "Pro Gf Muff",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Pro Gf Muff\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Oven": 20
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-pineapple-upsidedown-slice",
+    "name": "Pineapple Upsidedown Slice",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Pineapple Upsidedown Slice\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Oven": 20
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-gf-mini-cupcake",
+    "name": "GF Mini Cupcake",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "GF Mini Cupcake\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-mini-bundt",
+    "name": "Mini Bundt",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Mini Bundt\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20,
+      "Decorator": 30
+    },
+    "est_equipment": {
+      "Stand Mixer": 12,
+      "Oven": 32
+    },
+    "est_skills": [
+      "Piping / decorating"
+    ]
+  },
+  {
+    "id": "need-g-g-scone",
+    "name": "G&G Scone",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "G&G Scone\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 18
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-gin-tree-cookie",
+    "name": "Gin. Tree Cookie",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Gin. Tree Cookie\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-heart-sugar-cookie",
+    "name": "Heart Sugar Cookie",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Heart Sugar Cookie\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-torte-small",
+    "name": "Torte Small",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Torte Small\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Oven": 20
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-sugar-cookie-bar",
+    "name": "Sugar Cookie Bar",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Sugar Cookie Bar\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 25
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 12
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-al-s-muffins",
+    "name": "Al's Muffins",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Al's Muffins\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 18
+    },
+    "est_skills": []
+  },
+  {
+    "id": "need-al-s-scone",
+    "name": "Al's Scone",
+    "page_label": "Needs a recipe (no recipe on file yet)",
+    "pos": "new recipe",
+    "rotation": 0,
+    "typed": true,
+    "yield_qty": "",
+    "yield_unit": "",
+    "text": "Al's Scone\n\n[We don't have this recipe yet — please type the ingredients & method here, then fill in the costs below.]",
+    "est_labor": {
+      "Baker": 20
+    },
+    "est_equipment": {
+      "Stand Mixer": 8,
+      "Oven": 18
+    },
+    "est_skills": []
   }
 ]
