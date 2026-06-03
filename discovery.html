@@ -1,0 +1,133 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>All Good Things Bakery — Owner Questionnaire</title>
+<style>
+:root{--green:#2a8d57;--orange:#d6852f;--ink:#27313a;--line:#dfe4ea;--blue:#37597a;--muted:#7a8794;--bg:#f4f6f9}
+*{box-sizing:border-box}
+body{font:15px/1.55 system-ui,-apple-system,Segoe UI,Arial,sans-serif;color:var(--ink);margin:0;background:var(--bg)}
+header{background:#1d2b3a;color:#fff;padding:14px 18px;display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;position:sticky;top:0;z-index:5}
+header h1{font-size:17px;margin:0;font-weight:650}
+.prog{font-size:13px;opacity:.9}.prog b{color:#7fe0a6}
+.btn{font:inherit;border:0;border-radius:8px;padding:8px 14px;cursor:pointer;background:var(--blue);color:#fff;text-decoration:none;display:inline-block}
+.btn:hover{filter:brightness(1.1)}.btn.ghost{background:#33455a}.btn.green{background:var(--green);font-weight:600}
+#save{margin-left:auto;font-size:12px;opacity:.8}
+.wrap{max-width:780px;margin:0 auto;padding:18px 16px 80px}
+.intro{background:#fff;border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:16px;font-size:14px}
+.sec{background:#fff;border:1px solid var(--line);border-radius:12px;padding:8px 18px 16px;margin-bottom:16px}
+.sec h2{font-size:16px;color:#1d2b3a;border-bottom:2px solid var(--line);padding-bottom:8px;margin:12px 0 4px}
+.q{padding:12px 0;border-bottom:1px solid #eef1f4}
+.q:last-child{border-bottom:0}
+.q label{display:block;font-weight:600;color:#2c3742;margin-bottom:6px;font-size:14px}
+.q textarea,.q input{width:100%;font:inherit;border:1px solid var(--line);border-radius:8px;padding:9px 11px;background:#fff}
+.q textarea{min-height:54px;resize:vertical;line-height:1.5}
+.q .hint{font-size:12.5px;color:var(--muted);font-weight:400;margin-top:2px}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+.foot{color:var(--muted);font-size:12px;text-align:center;margin-top:20px}
+</style></head>
+<body>
+<header>
+ <h1>🧁 Owner Questionnaire</h1>
+ <span class="prog" id="prog"></span>
+ <a class="btn ghost" href="index.html">‹ Recipe review</a>
+ <span id="save"></span>
+</header>
+<div class="wrap">
+ <div class="intro">
+  A few questions to help us understand how the bakery really runs — your time, your space, your supplies, and your team.
+  Answer what you can; rough numbers are fine. <b>Everything saves in this browser and is never sent anywhere</b> — when you're
+  done, click <b>Download answers</b> and send the file back. There are no wrong answers.
+ </div>
+ <div id="form"></div>
+ <div class="sec">
+  <div class="actions">
+   <button class="btn green" id="dl">⬇ Download answers (.json)</button>
+   <button class="btn ghost" id="copy">Copy as text</button>
+  </div>
+  <div class="foot">Your progress is saved automatically in this browser.</div>
+ </div>
+</div>
+<script>
+const SECTIONS=[
+ {t:"⏱️ Your time",qs:[
+  {id:"day",q:"Walk us through a typical day — when do you start, when do you leave, and what are you doing through the day?",type:"area"},
+  {id:"hours_week",q:"About how many hours a week do you work?",type:"text"},
+  {id:"hours_split",q:"Roughly how do those hours split across: baking · decorating · counter/customers · ordering & admin · deliveries · cleaning?",type:"area"},
+  {id:"pay_self",q:"Do you pay yourself a set wage, or take money out of the profits — and about how much a year?",type:"text"},
+  {id:"need_takehome",q:"What do you need to take home for this to feel worth it?",type:"text"},
+  {id:"only_you",q:"What tasks can only YOU do right now? (recipes, decorating, ordering, the customer relationships…)",type:"area"},
+  {id:"draining",q:"What part of the week drains you most, and what would you stop doing tomorrow if you could?",type:"area"},
+  {id:"two_weeks",q:"If you took two weeks off, what would fall apart? Who would cover production?",type:"area"},
+  {id:"five_year",q:"Where do you want the bakery to be in 3–5 years? (grow it, steady it, free up your time, sell it, pass it on…)",type:"area"},
+ ]},
+ {t:"🏠 Your space & how it's used",qs:[
+  {id:"lease",q:"Do you own or lease the space? If you lease, how many years are left on the term — and is there room to expand next door?",type:"area"},
+  {id:"bottleneck",q:"On a slammed morning, what runs out of capacity FIRST — the oven, the mixer, the proofer, decorating time, the registers, or your own hands?",type:"area"},
+  {id:"cold_full",q:"Your fridges and freezers — on a normal day, are they packed, or is there spare room to prep or freeze things ahead?",type:"text"},
+  {id:"mondays",q:"Mondays — open, closed, or in-but-not-selling? Why? And do you work Mondays?",type:"area"},
+  {id:"afternoons",q:"Afternoons — after the morning rush, what's actually happening? (staff still on, more baking, cleaning, or quiet?)",type:"area"},
+  {id:"space_other",q:"Would you ever consider using the space for classes, private events, or renting the kitchen in off-hours?",type:"text"},
+ ]},
+ {t:"🧺 Materials, suppliers & waste",qs:[
+  {id:"suppliers",q:"Besides Sysco, where else do you buy ingredients and food — and roughly how much with each? (Costco, local farms or dairy, specialty suppliers, the grocery store, a second distributor…)",type:"area"},
+  {id:"other_supplies",q:"Besides your food vendors, what other supplies do you buy regularly and from whom? (packaging, cleaning, smallwares, paper goods…)",type:"area"},
+  {id:"ordering",q:"How do you decide how much to order — set amounts, standing orders, or by feel? How often do you order?",type:"area"},
+  {id:"waste",q:"On a normal day, how much goes unsold? What happens to it (discount, donate, staff, trash)? Which items waste the most?",type:"area"},
+  {id:"freshness",q:"How long is each kind of item good for? What MUST be sold same-day, and what holds a day or freezes well?",type:"area"},
+  {id:"makeahead",q:"Do you already make anything ahead, freeze, or proof overnight today? Which items, and how do they hold up?",type:"area"},
+  {id:"yields",q:"How many does one batch make of: cupcakes? each cake size? pies? eclairs? brownies? (your best estimates)",type:"area"},
+  {id:"cost_worry",q:"Any ingredient costs that have spiked or worry you, or items you suspect might be losing money?",type:"area"},
+  {id:"bake_counts",q:"On a typical day, how many do you bake of each: Scone · Cinnamon Roll · Galette · Pop Tart · Muffin · Donuts · Cupcakes · (others)?",type:"area",hint:"This is the key to proving where you're selling out."},
+ ]},
+ {t:"👥 Your team & skills",qs:[
+  {id:"staff",q:"How many people work there, and in what roles (bakers, decorators, baristas, prep, counter)? Full- or part-time?",type:"area"},
+  {id:"skills",q:"Who can do what? Who can bake a full morning unsupervised, who can decorate, who can open the shop alone?",type:"area"},
+  {id:"hiring",q:"What roles are hardest to hire or keep? How's turnover been?",type:"area"},
+  {id:"wages",q:"What do you pay per hour for each role — baker, decorator, barista, counter?",type:"text"},
+  {id:"train_baker",q:"Is there anyone who could be trained to take production off you — and what's stopping that today?",type:"area"},
+  {id:"flex",q:"Can your staff move between stations, or is each person in one spot?",type:"text"},
+ ]},
+ {t:"📅 Staffing & hours",qs:[
+  {id:"schedule_how",q:"How do you build the schedule — set shifts, by time of day, or by feel?",type:"area"},
+  {id:"who_when",q:"Who's working at 5am, at the 7am rush, at noon, and at 1pm? Roughly how many people in each of those windows?",type:"area"},
+  {id:"labor_hours",q:"Roughly how many staff-hours a day, and does the afternoon stay staffed even when it's quiet?",type:"area"},
+  {id:"production_when",q:"When does baking happen — all before you open, or throughout the day?",type:"text"},
+  {id:"seasonal",q:"Do you change staffing by day of the week or by season?",type:"text"},
+  {id:"overtime",q:"Is anyone on overtime? Are people stretched thin, or is there slack in the day?",type:"text"},
+  {id:"redesign",q:"If you could redesign the schedule from scratch, what would you change?",type:"area"},
+ ]},
+ {t:"🚀 Growth",qs:[
+  {id:"turned_away",q:"Have you ever turned away business — big orders, catering, wholesale inquiries? How often, and how much?",type:"area"},
+  {id:"wholesale",q:"Do you do any wholesale or catering now? Would you want more?",type:"text"},
+  {id:"appetite",q:"Do you have the appetite (and capital) to invest — equipment, more space, a second location, a class program?",type:"area"},
+  {id:"biggest_constraint",q:"In your own words: what's the single biggest thing holding the bakery back from growing?",type:"area"},
+ ]},
+];
+const KEY="agt-owner-discovery-v1";
+const $=s=>document.querySelector(s);
+let A=JSON.parse(localStorage.getItem(KEY)||"{}");
+const total=SECTIONS.reduce((n,s)=>n+s.qs.length,0);
+function esc(x){return (x||'').replace(/[<&]/g,c=>c==='<'?'&lt;':'&amp;');}
+function render(){
+  $('#form').innerHTML=SECTIONS.map(s=>`<div class="sec"><h2>${s.t}</h2>`+s.qs.map(q=>{
+    const v=esc(A[q.id]||'');
+    const field=q.type==='text'
+      ? `<input data-id="${q.id}" value="${v.replace(/"/g,'&quot;')}">`
+      : `<textarea data-id="${q.id}">${v}</textarea>`;
+    return `<div class="q"><label>${q.q}${q.hint?`<div class="hint">${q.hint}</div>`:''}</label>${field}</div>`;
+  }).join('')+`</div>`).join('');
+  $('#form').querySelectorAll('[data-id]').forEach(el=>el.addEventListener('input',()=>{
+    A[el.dataset.id]=el.value; save();
+  }));
+  meta();
+}
+let t=null;
+function save(){clearTimeout(t);t=setTimeout(()=>{localStorage.setItem(KEY,JSON.stringify(A));
+  $('#save').textContent='saved ✓';setTimeout(()=>$('#save').textContent='',1200);meta();},350);}
+function meta(){const done=Object.values(A).filter(v=>(v||'').trim()).length;
+  $('#prog').innerHTML=`Answered <b>${done}</b> / ${total}`;}
+$('#dl').onclick=()=>{const blob=new Blob([JSON.stringify({type:"owner-discovery",answers:A},null,2)],{type:'application/json'});
+  const a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='owner-questionnaire.json';a.click();};
+$('#copy').onclick=()=>{const txt=SECTIONS.map(s=>`### ${s.t}\n`+s.qs.map(q=>`${q.q}\n→ ${A[q.id]||'(blank)'}`).join('\n\n')).join('\n\n');
+  navigator.clipboard.writeText(txt).then(()=>{$('#copy').textContent='Copied ✓';setTimeout(()=>$('#copy').textContent='Copy as text',1400);});};
+render();
+</script></body></html>
