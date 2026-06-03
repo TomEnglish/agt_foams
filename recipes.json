@@ -1998,25 +1998,6 @@
     ]
   },
   {
-    "id": "need-mini-bundt",
-    "name": "Mini Bundt",
-    "page_label": "Estimated recipes — please confirm",
-    "pos": "estimated from item name",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "12",
-    "yield_unit": "mini bundts",
-    "text": "Mini Bundt\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nMini bundt cakes — starts from a cake batter (e.g. our Pound Cake, Pumpkin Cake, or Gingerbread Bundt - confirm which).\n- Cake batter: 1 batch\n- Glaze: powdered sugar + milk/butter\n\nMethod: Grease mini bundt pan, fill ~3/4. Bake 350F ~22-28 min. Cool, glaze.\nYield: ~12 mini bundts.",
-    "est_labor": {
-      "Baker": 20
-    },
-    "est_equipment": {
-      "Stand Mixer": 12,
-      "Oven": 25
-    },
-    "est_skills": []
-  },
-  {
     "id": "need-g-g-scone",
     "name": "G&G Scone",
     "page_label": "Estimated recipes — please confirm",
@@ -2034,28 +2015,6 @@
       "Oven": 22
     },
     "est_skills": []
-  },
-  {
-    "id": "need-gin-tree-cookie",
-    "name": "Gin. Tree Cookie",
-    "page_label": "Estimated recipes — please confirm",
-    "pos": "estimated from item name",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "24",
-    "yield_unit": "cookies",
-    "text": "Gin. Tree Cookie\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nGingerbread tree cut-out cookie — starts from our Cut Out Cookie Dough (gingerbread version: add molasses + ginger/cinnamon/clove) or our Ginger Molasses dough, rolled.\n- Royal icing for decorating\n\nMethod: Roll, cut tree shapes, bake 350F ~10-12 min. Cool, ice.\nYield: ~24 cookies.",
-    "est_labor": {
-      "Baker": 25,
-      "Decorator": 20
-    },
-    "est_equipment": {
-      "Stand Mixer": 8,
-      "Oven": 12
-    },
-    "est_skills": [
-      "Piping / decorating"
-    ]
   },
   {
     "id": "need-heart-sugar-cookie",
@@ -2078,27 +2037,6 @@
     "est_skills": [
       "Piping / decorating"
     ]
-  },
-  {
-    "id": "need-torte-small",
-    "name": "Torte Small",
-    "page_label": "Estimated recipes — please confirm",
-    "pos": "estimated from item name",
-    "rotation": 0,
-    "typed": true,
-    "yield_qty": "4",
-    "yield_unit": "small tortes",
-    "text": "Torte Small\n\nESTIMATE — best guess from the item name. Please confirm or correct quantities, flavor, and steps.\n\nAssumed flourless chocolate torte (confirm which torte):\n- 8 oz chocolate + 1 cup butter, melted\n- 1 1/4 cups sugar, 5 eggs, 1 cup cocoa, pinch salt\n\nMethod: Melt chocolate + butter; whisk in sugar, then eggs, then cocoa. Bake in small pans 350F ~25-30 min. Cool; dust or ganache.\nYield: ~4 small tortes (confirm size).",
-    "est_labor": {
-      "Baker": 25,
-      "Decorator": 15
-    },
-    "est_equipment": {
-      "Stand Mixer": 10,
-      "Stovetop / Range": 5,
-      "Oven": 30
-    },
-    "est_skills": []
   },
   {
     "id": "need-sugar-cookie-bar",
